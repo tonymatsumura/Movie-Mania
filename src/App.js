@@ -7,7 +7,7 @@ import './App.css';
 import { Tmdb } from "./components/Netflix/Tmdb";
 import MovieRow from "./components/Netflix/Components/MovieRow.js";
 import FeaturedMovie from "./components/Netflix/Components/FeaturedMovie"
-import Header from "./components/Netflix/Components/Header";
+// import Header from "./components/Netflix/Components/Header";
 
 // Import temp
 import UseFetch from './components/Training/useFetch'
