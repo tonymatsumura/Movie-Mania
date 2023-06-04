@@ -61,7 +61,7 @@ export default function App() {
 
       {/* Header */}
 
-      < Header black={blackHeader} />
+      {/* < Header black={blackHeader} /> */}
 
       {/* Destaque */}
 
