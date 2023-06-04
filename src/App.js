@@ -16,7 +16,7 @@ import UseFetch from './components/Training/useFetch'
 export default function App() {
   const [movieList, setMovieList] = useState([]);
   const [featuredData, setFeaturedData] = useState(null);
-  const [blackHeader, setBlackHeader] = useState(false);
+  // const [blackHeader, setBlackHeader] = useState(false);
 
 
   useEffect(() => { // Get Tmdb Movies List
@@ -43,9 +43,9 @@ export default function App() {
   useEffect(() => { // Control Scroll Listener
     const scrollListener = () => {
       if (window.scrollY > 5) {
-        setBlackHeader(true);
+        // setBlackHeader(true);
       } else {
-        setBlackHeader(false);
+        // setBlackHeader(false);
       }
     }
 
