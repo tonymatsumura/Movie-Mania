@@ -1,0 +1,3244 @@
+[
+    {
+        "slug": "originals",
+        "title": "Originais da Netflix",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "backdrop_path": "/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
+                    "first_air_date": "2023-01-23",
+                    "genre_ids": [
+                        9648,
+                        18
+                    ],
+                    "id": 202250,
+                    "name": "Dirty Linen",
+                    "origin_country": [
+                        "PH"
+                    ],
+                    "original_language": "tl",
+                    "original_name": "Dirty Linen",
+                    "overview": "",
+                    "popularity": 2883.921,
+                    "poster_path": "/aoAZgnmMzY9vVy9VWnO3U5PZENh.jpg",
+                    "vote_average": 4.9,
+                    "vote_count": 17
+                },
+                {
+                    "backdrop_path": null,
+                    "first_air_date": "2005-09-05",
+                    "genre_ids": [
+                        18,
+                        35
+                    ],
+                    "id": 36361,
+                    "name": "Ulice",
+                    "origin_country": [
+                        "CZ"
+                    ],
+                    "original_language": "cs",
+                    "original_name": "Ulice",
+                    "overview": "",
+                    "popularity": 2707.186,
+                    "poster_path": "/3ayWL13P1HeRnyVL9lU9flOdZjq.jpg",
+                    "vote_average": 2.8,
+                    "vote_count": 12
+                },
+                {
+                    "backdrop_path": "/8qlKzvR68dH0ZaJFG9XBEctvvUo.jpg",
+                    "first_air_date": "2011-02-12",
+                    "genre_ids": [
+                        35
+                    ],
+                    "id": 63935,
+                    "name": "Les Mystères de l'amour",
+                    "origin_country": [
+                        "FR"
+                    ],
+                    "original_language": "fr",
+                    "original_name": "Les Mystères de l'amour",
+                    "overview": "",
+                    "popularity": 2603.443,
+                    "poster_path": "/mtUhIHbhw0GCacVnPam8p4vwejB.jpg",
+                    "vote_average": 6.2,
+                    "vote_count": 5
+                },
+                {
+                    "backdrop_path": "/69Jblm3seQgiPuPQMrJqg9Nxhaz.jpg",
+                    "first_air_date": "2011-01-10",
+                    "genre_ids": [
+                        10763,
+                        10767
+                    ],
+                    "id": 101463,
+                    "name": "Al rojo vivo",
+                    "origin_country": [
+                        "ES"
+                    ],
+                    "original_language": "es",
+                    "original_name": "Al rojo vivo",
+                    "overview": "",
+                    "popularity": 2253.556,
+                    "poster_path": "/ag6PmoBxkF2s1uY3An618NCEt3g.jpg",
+                    "vote_average": 3.6,
+                    "vote_count": 9
+                },
+                {
+                    "backdrop_path": "/t2rAdgjSh0WYbXzdOB5zTDqzdCI.jpg",
+                    "first_air_date": "2022-11-02",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 213713,
+                    "name": "Faltu",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "Faltu",
+                    "overview": "",
+                    "popularity": 2147.302,
+                    "poster_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+                    "vote_average": 4.4,
+                    "vote_count": 23
+                },
+                {
+                    "backdrop_path": "/3n2TjKw3HrwDqgVgcynvantOfS3.jpg",
+                    "first_air_date": "2023-01-04",
+                    "genre_ids": [
+                        18,
+                        10751
+                    ],
+                    "id": 215103,
+                    "name": "तेरी मेरी डोरियाँ",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "तेरी मेरी डोरियाँ",
+                    "overview": "",
+                    "popularity": 2117.439,
+                    "poster_path": "/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+                    "vote_average": 4.5,
+                    "vote_count": 8
+                },
+                {
+                    "backdrop_path": null,
+                    "first_air_date": "2022-11-28",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 215315,
+                    "name": "रब्ब से है दुआ",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "रब्ब से है दुआ",
+                    "overview": "",
+                    "popularity": 2066.541,
+                    "poster_path": "/6ikbefd7VeopbBuGgioYMNU5bQj.jpg",
+                    "vote_average": 5,
+                    "vote_count": 3
+                },
+                {
+                    "backdrop_path": "/lcSvkJ2Rob3ICIOCUJahw3kgSYZ.jpg",
+                    "first_air_date": "2023-03-14",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 216390,
+                    "name": "비밀의 여자",
+                    "origin_country": [
+                        "KR"
+                    ],
+                    "original_language": "ko",
+                    "original_name": "비밀의 여자",
+                    "overview": "",
+                    "popularity": 2047.717,
+                    "poster_path": "/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
+                    "vote_average": 4.7,
+                    "vote_count": 6
+                },
+                {
+                    "backdrop_path": "/vW16JyrWiB1cW9wWzxhmjVHoqwJ.jpg",
+                    "first_air_date": "2023-03-13",
+                    "genre_ids": [
+                        10766
+                    ],
+                    "id": 217510,
+                    "name": "Queridos Papás",
+                    "origin_country": [
+                        "PT"
+                    ],
+                    "original_language": "pt",
+                    "original_name": "Queridos Papás",
+                    "overview": "Esta trama conta-nos a vida de quatro homens que se encontram no infantário dos filhos e partilham as suas experiências de pais num mundo constituído maioritariamente por mães. Entre temas de amizade, relacionamentos pai-filhos, conflitos amorosos e mudanças nos papéis sociais, conhecemos as histórias de cada família e as suas vicissitudes.",
+                    "popularity": 1971.044,
+                    "poster_path": "/m1aGGAPvLpWF5cGhkQeZjbpu2nr.jpg",
+                    "vote_average": 5,
+                    "vote_count": 3
+                },
+                {
+                    "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+                    "first_air_date": "2023-01-09",
+                    "genre_ids": [
+                        10751,
+                        35
+                    ],
+                    "id": 218145,
+                    "name": "Mama na prenájom",
+                    "origin_country": [
+                        "SK"
+                    ],
+                    "original_language": "sk",
+                    "original_name": "Mama na prenájom",
+                    "overview": "",
+                    "popularity": 1949.721,
+                    "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 4
+                },
+                {
+                    "backdrop_path": "/aqJPC5GXuiVbedajRmdOVMCb7mC.jpg",
+                    "first_air_date": "2022-12-05",
+                    "genre_ids": [
+                        18,
+                        10751,
+                        10766
+                    ],
+                    "id": 215902,
+                    "name": "कथा अनकही",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "कथा अनकही",
+                    "overview": "",
+                    "popularity": 2016.951,
+                    "poster_path": "/uhXU0SMPMlemKGHmwbldM60qqmW.jpg",
+                    "vote_average": 9.5,
+                    "vote_count": 2
+                },
+                {
+                    "backdrop_path": "/peqIR6V2zZdzp3MEZBCwtqw1Bf2.jpg",
+                    "first_air_date": "2022-11-28",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 215426,
+                    "name": "Pyaar Ke Saat Vachan - Dharam Patni",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "Pyaar Ke Saat Vachan - Dharam Patni",
+                    "overview": "",
+                    "popularity": 2023.665,
+                    "poster_path": "/23LBL4XPwlD98N798PzRRxHIMzT.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2
+                },
+                {
+                    "backdrop_path": "/w9uM2biYWGqwEpvIYs8CXRoAdVB.jpg",
+                    "first_air_date": "2023-02-26",
+                    "genre_ids": [
+                        10764,
+                        10767
+                    ],
+                    "id": 221249,
+                    "name": "O Triângulo",
+                    "origin_country": [
+                        "PT"
+                    ],
+                    "original_language": "pt",
+                    "original_name": "O Triângulo",
+                    "overview": "Concorrentes anónimos vão ser surpreendidos com realidades inesperadas que vão pôr à prova todas as suas capacidades, 24 horas por dia. Sejam físicas, intelectuais, emocionais ou psicológicas. No fim, só um será vencedor.\n\nTudo pode mudar... a qualquer momento... quando menos se espera!",
+                    "popularity": 1840.815,
+                    "poster_path": "/A2LE5B1IInR5h98OUNzyj9aQiIS.jpg",
+                    "vote_average": 1.2,
+                    "vote_count": 3
+                },
+                {
+                    "backdrop_path": "/jWYzdSv85nncRxfDwYSQKKlnuhG.jpg",
+                    "first_air_date": "2023-03-09",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 221949,
+                    "name": "चाशनी",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "चाशनी",
+                    "overview": "",
+                    "popularity": 1814.331,
+                    "poster_path": "/vsyxauBA27kB3uCM4pNJaYVSx1S.jpg",
+                    "vote_average": 5.7,
+                    "vote_count": 3
+                },
+                {
+                    "backdrop_path": "/xkiv3e1daoqil5MRJitCJcwUgk2.jpg",
+                    "first_air_date": "2021-10-31",
+                    "genre_ids": [
+                        10764
+                    ],
+                    "id": 114294,
+                    "name": "Judy Justice",
+                    "origin_country": [
+                        "US"
+                    ],
+                    "original_language": "en",
+                    "original_name": "Judy Justice",
+                    "overview": "",
+                    "popularity": 1771.317,
+                    "poster_path": "/4E8Rb9vPbixxC0ZdzSkvE5fpeQa.jpg",
+                    "vote_average": 4.3,
+                    "vote_count": 11
+                },
+                {
+                    "backdrop_path": "/xYiI6QEZvx8Z4La1oHvApyZHpOU.jpg",
+                    "first_air_date": "2023-01-16",
+                    "genre_ids": [
+                        10766,
+                        35
+                    ],
+                    "id": 209117,
+                    "name": "Vai na Fé",
+                    "origin_country": [
+                        "BR"
+                    ],
+                    "original_language": "pt",
+                    "original_name": "Vai na Fé",
+                    "overview": "",
+                    "popularity": 1583.582,
+                    "poster_path": "/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+                    "vote_average": 7.9,
+                    "vote_count": 9
+                },
+                {
+                    "backdrop_path": "/3FLHePl9Y3n4BidLVjIA9qSRDOE.jpg",
+                    "first_air_date": "2021-08-03",
+                    "genre_ids": [
+                        10766
+                    ],
+                    "id": 130542,
+                    "name": "Bhagya Lakshmi",
+                    "origin_country": [
+                        "IN"
+                    ],
+                    "original_language": "hi",
+                    "original_name": "Bhagya Lakshmi",
+                    "overview": "",
+                    "popularity": 1559.216,
+                    "poster_path": "/eVaGfVPA85AUrCAQoOLb0kY2SZA.jpg",
+                    "vote_average": 4.9,
+                    "vote_count": 38
+                },
+                {
+                    "backdrop_path": "/o5GsA1G5YEruuUNOYvWjlArIC37.jpg",
+                    "first_air_date": "2022-09-19",
+                    "genre_ids": [
+                        10766
+                    ],
+                    "id": 210506,
+                    "name": "Sangue Oculto",
+                    "origin_country": [
+                        "PT"
+                    ],
+                    "original_language": "pt",
+                    "original_name": "Sangue Oculto",
+                    "overview": "Três gémeas são separadas à nascença. Duas delas voltam a encontrar-se três décadas depois.",
+                    "popularity": 1525.213,
+                    "poster_path": "/myCEG6C5Nk181jXzBek5MQEXpM2.jpg",
+                    "vote_average": 6.1,
+                    "vote_count": 10
+                },
+                {
+                    "backdrop_path": "/kaZTbbwKLKZoKtOLjPr4GgnFAPn.jpg",
+                    "first_air_date": "2022-11-14",
+                    "genre_ids": [
+                        10759,
+                        18
+                    ],
+                    "id": 211128,
+                    "name": "The Iron Heart",
+                    "origin_country": [
+                        "PH"
+                    ],
+                    "original_language": "tl",
+                    "original_name": "The Iron Heart",
+                    "overview": "",
+                    "popularity": 1504.257,
+                    "poster_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+                    "vote_average": 7.4,
+                    "vote_count": 5
+                },
+                {
+                    "backdrop_path": "/1CWhCGpl3sx92OATm3tELtLqBdX.jpg",
+                    "first_air_date": "2023-02-20",
+                    "genre_ids": [
+                        10766
+                    ],
+                    "id": 220992,
+                    "name": "El Amor Invencible",
+                    "origin_country": [
+                        "MX"
+                    ],
+                    "original_language": "es",
+                    "original_name": "El Amor Invencible",
+                    "overview": "",
+                    "popularity": 1997.28,
+                    "poster_path": "/i6zwenRLASRRKTklSW4r1IAiLKP.jpg",
+                    "vote_average": 5.3,
+                    "vote_count": 4
+                }
+            ],
+            "total_pages": 7466,
+            "total_results": 149307
+        }
+    },
+    {
+        "slug": "trending",
+        "title": "Recomendados",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/nLBRD7UPR6GjmWQp6ASAfCTaWKX.jpg",
+                    "id": 502356,
+                    "title": "Super Mario Bros.: O Filme",
+                    "original_language": "en",
+                    "original_title": "The Super Mario Bros. Movie",
+                    "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+                    "poster_path": "/kzYbNJ4JaQiRny0cDi8a6bNX5w3.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        16,
+                        10751,
+                        12,
+                        14,
+                        35
+                    ],
+                    "popularity": 8501.774,
+                    "release_date": "2023-04-05",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 2613
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+                    "id": 713704,
+                    "title": "A Morte do Demônio: A Ascensão",
+                    "original_language": "en",
+                    "original_title": "Evil Dead Rise",
+                    "overview": "Duas irmãs distantes cujo reencontro é interrompido por demônios devoradores de carne que aparecem de repente, levando-as a uma batalha primal pela sobrevivência, enfrentando a versão mais assustadora que se possa imaginar de uma família.",
+                    "poster_path": "/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        53,
+                        27,
+                        14
+                    ],
+                    "popularity": 3811.117,
+                    "release_date": "2023-04-12",
+                    "video": false,
+                    "vote_average": 7.132,
+                    "vote_count": 1111
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                    "id": 447365,
+                    "title": "Guardiões da Galáxia: Volume 3",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 3",
+                    "overview": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                    "poster_path": "/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28
+                    ],
+                    "popularity": 1766.934,
+                    "release_date": "2023-05-03",
+                    "video": false,
+                    "vote_average": 8.142,
+                    "vote_count": 1292
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/fC6TZRnySFZ7RMYdOA4Yt21q0Y9.jpg",
+                    "id": 493529,
+                    "title": "Dungeons & Dragons: Honra Entre Rebeldes",
+                    "original_language": "en",
+                    "original_title": "Dungeons & Dragons: Honor Among Thieves",
+                    "overview": "Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.",
+                    "poster_path": "/85ivt7lJm3J5Mqybdh59m09eksV.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        12,
+                        14,
+                        35
+                    ],
+                    "popularity": 790.413,
+                    "release_date": "2023-03-23",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "vote_count": 1247
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+                    "id": 640146,
+                    "title": "Homem-Formiga e a Vespa: Quantumania",
+                    "original_language": "en",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "overview": "Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+                    "poster_path": "/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "popularity": 3352.36,
+                    "release_date": "2023-02-15",
+                    "video": false,
+                    "vote_average": 6.522,
+                    "vote_count": 2625
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+                    "id": 964980,
+                    "title": "Air: A História Por Trás do Logo",
+                    "original_language": "en",
+                    "original_title": "Air",
+                    "overview": "A história do esforço da Nike para contratar o astro do basquete em ascensão Michael Jordan para sua empresa de calçados em meados da década de 1980, um endosso que parecia impossível na época, mas que, graças ao vendedor de tênis independente Sonny Vaccarro, se tornaria o relacionamento mais significativo entre uma marca atlética e um atleta de todos os tempos.",
+                    "poster_path": "/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        18,
+                        36
+                    ],
+                    "popularity": 481.976,
+                    "release_date": "2023-04-05",
+                    "video": false,
+                    "vote_average": 7.484,
+                    "vote_count": 570
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/cEyhk8tZWubni71M6plwLMQFOIX.jpg",
+                    "id": 385687,
+                    "title": "Velozes & Furiosos 10",
+                    "original_language": "en",
+                    "original_title": "Fast X",
+                    "overview": "Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .",
+                    "poster_path": "/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        80
+                    ],
+                    "popularity": 2667.036,
+                    "release_date": "2023-05-17",
+                    "video": false,
+                    "vote_average": 6.867,
+                    "vote_count": 98
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/i1eghEBiC0gN4KnwuUGC2fNiX1f.jpg",
+                    "id": 552688,
+                    "title": "A Mãe",
+                    "original_language": "en",
+                    "original_title": "The Mother",
+                    "overview": "Perseguida por inimigos perigosos, uma assassina foragida sai do esconderijo para proteger a filha que abandonou anos atrás.",
+                    "poster_path": "/5OeWHBMifiRPMz6eS23miS5ttED.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "popularity": 762.934,
+                    "release_date": "2023-05-04",
+                    "video": false,
+                    "vote_average": 6.77,
+                    "vote_count": 368
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+                    "id": 758323,
+                    "title": "O Exorcista do Papa",
+                    "original_language": "en",
+                    "original_title": "The Pope's Exorcist",
+                    "overview": "O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.",
+                    "poster_path": "/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        27,
+                        53,
+                        14
+                    ],
+                    "popularity": 1926.839,
+                    "release_date": "2023-04-05",
+                    "video": false,
+                    "vote_average": 7.231,
+                    "vote_count": 1020
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+                    "id": 882569,
+                    "title": "The Covenant",
+                    "original_language": "en",
+                    "original_title": "Guy Ritchie's The Covenant",
+                    "overview": "Um sargento do Exército é resgatado de uma missão no Afeganistão pelo seu intérprete. Naquela que seria a sua última missão no estrangeiro, Kinley fica à beira da morte mas sobrevive graças a Ahmed, que o protege e o carrega por quilometros a fim de garantir a sua segurança. Sem se lembrar muito bem do que aconteceu, o sargento apenas sabe que quando o homem se encontra em risco de vida, como a sua família, é a sua verdadeira missão retribuir o favor e ajudá-lo a sobreviver.",
+                    "poster_path": "/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        10752,
+                        28,
+                        53
+                    ],
+                    "popularity": 1903.56,
+                    "release_date": "2023-04-19",
+                    "video": false,
+                    "vote_average": 7.7,
+                    "vote_count": 185
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/e534w0IhBjrBGe97xVWwcn75jtX.jpg",
+                    "id": 620705,
+                    "title": "A Cratera",
+                    "original_language": "en",
+                    "original_title": "Crater",
+                    "overview": "Caleb Channing foi criado numa colônia de mineração lunar e está prestes a ser transferido permanentemente para um planeta idílico e distante após a morte do pai. Mas, antes de partir, ele e seus três melhores amigos, Dylan, Borney e Marcus, juntamente com Addison, uma recém-chegada da Terra, querem realizar o último desejo do pai dele. Então eles roubam um rover para viver uma última aventura e partem em uma jornada para explorar uma cratera misteriosa.",
+                    "poster_path": "/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        878,
+                        28,
+                        12,
+                        10751
+                    ],
+                    "popularity": 458.305,
+                    "release_date": "2023-05-12",
+                    "video": false,
+                    "vote_average": 6.731,
+                    "vote_count": 80
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+                    "id": 125988,
+                    "name": "O Silo",
+                    "original_language": "en",
+                    "original_name": "Silo",
+                    "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+                    "poster_path": "/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        10765,
+                        18
+                    ],
+                    "popularity": 561.137,
+                    "first_air_date": "2023-05-04",
+                    "vote_average": 8.8,
+                    "vote_count": 72,
+                    "origin_country": [
+                        "US",
+                        "GB"
+                    ]
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qVNACrSwu8RCgf9loLKfTv0mDeq.jpg",
+                    "id": 137040,
+                    "name": "Black Knight",
+                    "original_language": "ko",
+                    "original_name": "택배기사",
+                    "overview": "Em um 2071 distópico, quando o mundo está devastado pela poluição, um refugiado luta para ser entregador, conseguir comida e sobreviver.",
+                    "poster_path": "/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        10765,
+                        10759,
+                        18
+                    ],
+                    "popularity": 594.065,
+                    "first_air_date": "2023-05-12",
+                    "vote_average": 7.711,
+                    "vote_count": 64,
+                    "origin_country": [
+                        "KR"
+                    ]
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+                    "id": 934433,
+                    "title": "Pânico VI",
+                    "original_language": "en",
+                    "original_title": "Scream VI",
+                    "overview": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+                    "poster_path": "/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        27,
+                        9648,
+                        53
+                    ],
+                    "popularity": 930.217,
+                    "release_date": "2023-03-08",
+                    "video": false,
+                    "vote_average": 7.325,
+                    "vote_count": 1197
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/e7FzphKs5gzoghDotAEp2FeP46u.jpg",
+                    "id": 649609,
+                    "title": "Dando Sangue pelo Chefe",
+                    "original_language": "en",
+                    "original_title": "Renfield",
+                    "overview": "Renfield, o sofrido ajudante do chefe mais narcisista da história, Drácula, é forçado a encontrar as vítimas para seu mestre e fazer tudo o que ele lhe pede, qualquer que seja o grau de degradação da ordem recebida. Mas agora, depois de séculos de servidão, Renfield está pronto para descobrir se há vida lá fora, além da sombra do Príncipe das Trevas. Se pelo menos ele puder descobrir como dar fim à sua dependência dele.",
+                    "poster_path": "/nnryxxmgS17IBKvu23Hpg1mimZU.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        27,
+                        35,
+                        14
+                    ],
+                    "popularity": 1267.379,
+                    "release_date": "2023-04-07",
+                    "video": false,
+                    "vote_average": 7.087,
+                    "vote_count": 416
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                    "id": 76600,
+                    "title": "Avatar: O Caminho da Água",
+                    "original_language": "en",
+                    "original_title": "Avatar: The Way of Water",
+                    "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+                    "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28
+                    ],
+                    "popularity": 1453.136,
+                    "release_date": "2022-12-14",
+                    "video": false,
+                    "vote_average": 7.705,
+                    "vote_count": 8045
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3cgRI0hOq3dYyezSYrsfdmqxtMw.jpg",
+                    "id": 114922,
+                    "name": "Citadel",
+                    "original_language": "en",
+                    "original_name": "Citadel",
+                    "overview": "Há oito anos, a Citadel, uma agência de espionagem global independente, foi destruída por um novo grupo, a Mantícora. Com as memórias apagadas, os agentes de elite Mason Kane e Nadia Singh escaparam com vida. Oito anos depois, o ex-colega de Mason, Bernard Orlick, pede ajuda para impedir que a Mantícora estabeleça uma nova ordem mundial.",
+                    "poster_path": "/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        18,
+                        80,
+                        10759
+                    ],
+                    "popularity": 492.928,
+                    "first_air_date": "2023-04-27",
+                    "vote_average": 7.815,
+                    "vote_count": 89,
+                    "origin_country": [
+                        "US"
+                    ]
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+                    "id": 85937,
+                    "name": "Demon Slayer: Kimetsu no Yaiba",
+                    "original_language": "ja",
+                    "original_name": "鬼滅の刃",
+                    "overview": "Japão, era Taisho. Tanjiro, um bondoso jovem que ganha a vida vendendo carvão, descobre que sua família foi massacrada por um demônio. E pra piorar, Nezuko, sua irmã mais nova e única sobrevivente, também foi transformada num demônio. Arrasado com esta sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana, e para matar o demônio que matou sua família. Um triste conto sobre dois irmãos, onde os destinos dos humanos e dos demônios se entrelaçam, começa agora.",
+                    "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+                    "media_type": "tv",
+                    "genre_ids": [
+                        16,
+                        10759,
+                        10765
+                    ],
+                    "popularity": 207.142,
+                    "first_air_date": "2019-04-06",
+                    "vote_average": 8.703,
+                    "vote_count": 5183,
+                    "origin_country": [
+                        "JP"
+                    ]
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+                    "id": 603692,
+                    "title": "John Wick 4: Baba Yaga",
+                    "original_language": "en",
+                    "original_title": "John Wick: Chapter 4",
+                    "overview": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+                    "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        28,
+                        53,
+                        80
+                    ],
+                    "popularity": 1095.972,
+                    "release_date": "2023-03-22",
+                    "video": false,
+                    "vote_average": 7.901,
+                    "vote_count": 1426
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg",
+                    "id": 420808,
+                    "title": "Peter Pan & Wendy",
+                    "original_language": "en",
+                    "original_title": "Peter Pan & Wendy",
+                    "overview": "Wendy Darling, uma jovem que não quer ir para o colégio interno, conhece Peter Pan, um menino que se recusa a crescer. Com seus irmãos e uma fada, Tinker Bell, ela viaja com Peter para o mundo mágico da Terra do Nunca. Lá, ela encontra o pirata perverso, Capitão Gancho, e embarca em uma aventura emocionante que vai mudar sua vida para sempre.",
+                    "poster_path": "/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg",
+                    "media_type": "movie",
+                    "genre_ids": [
+                        10751,
+                        14,
+                        28,
+                        12
+                    ],
+                    "popularity": 690.384,
+                    "release_date": "2023-04-20",
+                    "video": false,
+                    "vote_average": 5.831,
+                    "vote_count": 350
+                }
+            ],
+            "total_pages": 1000,
+            "total_results": 20000
+        }
+    },
+    {
+        "slug": "toprated",
+        "title": "Em alta",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "id": 238,
+                    "original_language": "en",
+                    "original_title": "The Godfather",
+                    "overview": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                    "popularity": 101.989,
+                    "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                    "release_date": "1972-03-14",
+                    "title": "O Poderoso Chefão",
+                    "video": false,
+                    "vote_average": 8.7,
+                    "vote_count": 17926
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "id": 278,
+                    "original_language": "en",
+                    "original_title": "The Shawshank Redemption",
+                    "overview": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+                    "popularity": 71.574,
+                    "poster_path": "/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+                    "release_date": "1994-09-23",
+                    "title": "Um Sonho de Liberdade",
+                    "video": false,
+                    "vote_average": 8.7,
+                    "vote_count": 23769
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ejnlCzBd5pOGAYCpxC93NXSrdrz.jpg",
+                    "genre_ids": [
+                        35,
+                        14
+                    ],
+                    "id": 772071,
+                    "original_language": "es",
+                    "original_title": "Cuando Sea Joven",
+                    "overview": "",
+                    "popularity": 19.51,
+                    "poster_path": "/6gIJuFHh5Lj4dNaPG3TzIMl7L68.jpg",
+                    "release_date": "2022-09-14",
+                    "title": "Cuando Sea Joven",
+                    "video": false,
+                    "vote_average": 8.6,
+                    "vote_count": 225
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/oo4PVK6AyLZN49BokxDFGyclN86.jpg",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "id": 240,
+                    "original_language": "en",
+                    "original_title": "The Godfather Part II",
+                    "overview": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
+                    "popularity": 50.98,
+                    "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                    "release_date": "1974-12-20",
+                    "title": "O Poderoso Chefão: Parte II",
+                    "video": false,
+                    "vote_average": 8.6,
+                    "vote_count": 10822
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/vI3aUGTuRRdM7J78KIdW98LdxE5.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 19404,
+                    "original_language": "hi",
+                    "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+                    "overview": "Raj e Simran são dois jovens indianos vivendo em Londres que, acidentalmente, se conhecem durante uma viagem pela Europa. Eles se apaixonam, mas Simran está prometida a um indiano. Raj não desanima e segue seu amor até a Índia, onde os dois tentam convencer a todos que precisam ficar juntos.",
+                    "popularity": 29.838,
+                    "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+                    "release_date": "1995-10-19",
+                    "title": "Dilwale vai levar a noiva",
+                    "video": false,
+                    "vote_average": 8.6,
+                    "vote_count": 4128
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+                    "genre_ids": [
+                        18,
+                        36,
+                        10752
+                    ],
+                    "id": 424,
+                    "original_language": "en",
+                    "original_title": "Schindler's List",
+                    "overview": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
+                    "popularity": 45.942,
+                    "poster_path": "/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg",
+                    "release_date": "1993-12-15",
+                    "title": "A Lista de Schindler",
+                    "video": false,
+                    "vote_average": 8.6,
+                    "vote_count": 14058
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+                    "genre_ids": [
+                        16,
+                        10751,
+                        14
+                    ],
+                    "id": 129,
+                    "original_language": "ja",
+                    "original_title": "千と千尋の神隠し",
+                    "overview": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
+                    "popularity": 65.61,
+                    "poster_path": "/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
+                    "release_date": "2001-07-20",
+                    "title": "A Viagem de Chihiro",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 14292
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
+                    "genre_ids": [
+                        18
+                    ],
+                    "id": 389,
+                    "original_language": "en",
+                    "original_title": "12 Angry Men",
+                    "overview": "Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.",
+                    "popularity": 31.071,
+                    "poster_path": "/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
+                    "release_date": "1957-04-10",
+                    "title": "12 Homens e Uma Sentença",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 7263
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+                    "genre_ids": [
+                        10749,
+                        16,
+                        18
+                    ],
+                    "id": 372058,
+                    "original_language": "ja",
+                    "original_title": "君の名は。",
+                    "overview": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+                    "popularity": 84.74,
+                    "poster_path": "/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
+                    "release_date": "2016-08-26",
+                    "title": "Your Name.",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 9824
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+                    "genre_ids": [
+                        35,
+                        53,
+                        18
+                    ],
+                    "id": 496243,
+                    "original_language": "ko",
+                    "original_title": "기생충",
+                    "overview": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+                    "popularity": 52.772,
+                    "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                    "release_date": "2019-05-30",
+                    "title": "Parasita",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 15722
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+                    "genre_ids": [
+                        18,
+                        28,
+                        80,
+                        53
+                    ],
+                    "id": 155,
+                    "original_language": "en",
+                    "original_title": "The Dark Knight",
+                    "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+                    "popularity": 65.613,
+                    "poster_path": "/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg",
+                    "release_date": "2008-07-14",
+                    "title": "Batman: O Cavaleiro das Trevas",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 29697
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+                    "genre_ids": [
+                        14,
+                        18,
+                        80
+                    ],
+                    "id": 497,
+                    "original_language": "en",
+                    "original_title": "The Green Mile",
+                    "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenciária Cold Mountain. Lá, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de espírito e humanidade aos seus guardas e colegas de cela.",
+                    "popularity": 73.157,
+                    "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+                    "release_date": "1999-12-10",
+                    "title": "À Espera de um Milagre",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 15396
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                    "genre_ids": [
+                        53,
+                        80
+                    ],
+                    "id": 680,
+                    "original_language": "en",
+                    "original_title": "Pulp Fiction",
+                    "overview": "Vincent Vega (John Travolta) e Jules Winnfield (Samuel L. Jackson) são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace (Ving Rhames), um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge (Bruce Willis) se mete em apuros por ganhar uma luta que deveria perder.",
+                    "popularity": 57.867,
+                    "poster_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+                    "release_date": "1994-09-10",
+                    "title": "Pulp Fiction: Tempo de Violência",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 25160
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/eoCSp75lxatmIa6aGqfnzwtbttd.jpg",
+                    "genre_ids": [
+                        37
+                    ],
+                    "id": 429,
+                    "original_language": "it",
+                    "original_title": "Il buono, il brutto, il cattivo",
+                    "overview": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
+                    "popularity": 45.259,
+                    "poster_path": "/bS6g13i3LByRPDcuA7rwGIqSoKT.jpg",
+                    "release_date": "1966-12-23",
+                    "title": "Três Homens em Conflito",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 7388
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3h1JZGDhZ8nzxdgvkxha0qBqi05.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 13,
+                    "original_language": "en",
+                    "original_title": "Forrest Gump",
+                    "overview": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+                    "popularity": 48.22,
+                    "poster_path": "/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+                    "release_date": "1994-06-23",
+                    "title": "Forrest Gump: O Contador de Histórias",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 24646
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3RMLbSEXOn1CzLoNT7xFeLfdxhq.jpg",
+                    "genre_ids": [
+                        10749,
+                        16
+                    ],
+                    "id": 372754,
+                    "original_language": "ja",
+                    "original_title": "同級生",
+                    "overview": "A história começa numa aula de música quando, durante o ensaio do coral para o festival escolar, Hikaru Kusakabe percebe que o estudante de honra da escola, Rihito Sajō, não está cantando. De início, ele pensa que o estudante simplesmente não gosta de cantar, até encontrar Rihito ensaiando numa sala vazia na escola. Sem pensar duas vezes, Kusakabe decide ajudar o colega a ensaiar o canto.",
+                    "popularity": 13.683,
+                    "poster_path": "/7byisQANRFHf9SC60n5PaLywuMa.jpg",
+                    "release_date": "2016-02-20",
+                    "title": "Doukyuusei",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 304
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                    "genre_ids": [
+                        12,
+                        14,
+                        28
+                    ],
+                    "id": 122,
+                    "original_language": "en",
+                    "original_title": "The Lord of the Rings: The Return of the King",
+                    "overview": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+                    "popularity": 54.539,
+                    "poster_path": "/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
+                    "release_date": "2003-12-01",
+                    "title": "O Senhor dos Anéis: O Retorno do Rei",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 21579
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                    "genre_ids": [
+                        18,
+                        80
+                    ],
+                    "id": 769,
+                    "original_language": "en",
+                    "original_title": "GoodFellas",
+                    "overview": "Um jovem cresce na máfia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas não liga para o horror que provoca. Infelizmente, a dependência de drogas e alguns erros finalmente destroem sua escalada até o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+                    "popularity": 40.759,
+                    "poster_path": "/fnJcBTbNNUkcNmjqc7fF5ozzLDk.jpg",
+                    "release_date": "1990-09-12",
+                    "title": "Os Bons Companheiros",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 11249
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/uBZQOYZLIU9dBmd62fdzBAoropu.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        16,
+                        18
+                    ],
+                    "id": 704264,
+                    "original_language": "en",
+                    "original_title": "Primal: Tales of Savagery",
+                    "overview": "",
+                    "popularity": 13.464,
+                    "poster_path": "/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+                    "release_date": "2019-11-21",
+                    "title": "Primal: Tales of Savagery",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 263
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+                    "genre_ids": [
+                        28,
+                        18
+                    ],
+                    "id": 346,
+                    "original_language": "ja",
+                    "original_title": "七人の侍",
+                    "overview": "No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocráticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
+                    "popularity": 23.933,
+                    "poster_path": "/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+                    "release_date": "1954-04-26",
+                    "title": "Os Sete Samurais",
+                    "video": false,
+                    "vote_average": 8.5,
+                    "vote_count": 3048
+                }
+            ],
+            "total_pages": 555,
+            "total_results": 11087
+        }
+    },
+    {
+        "slug": "action",
+        "title": "ação",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "id": 640146,
+                    "original_language": "en",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "overview": "Scott Lang era um homem comum até ter sido desafiado pelo misterioso Dr. Hank Pym para uma experiência extraordinária. Com um fato especial que lhe proporcionava a capacidade de diminuir em escala e, simultaneamente, aumentar em força, Scott transformou-se no Homem-Formiga. Esse super-herói, para além de ser capaz de adoptar o tamanho e vigor proporcional de um pequeno insecto, contava ainda com uma aliança de peso: as formigas. Depois de muitas aventuras em que teve um papel fundamental na luta contra o mal, ele e Hope Van Dyne, também conhecida por Vespa, vêem-se transportados para o reino quântico subatómico, onde terão de enfrentar um inimigo de peso: Kang, o Conquistador.",
+                    "popularity": 3352.36,
+                    "poster_path": "/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
+                    "release_date": "2023-02-15",
+                    "title": "Homem-Formiga e a Vespa: Quantumania",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 2607
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/cEyhk8tZWubni71M6plwLMQFOIX.jpg",
+                    "genre_ids": [
+                        28,
+                        80
+                    ],
+                    "id": 385687,
+                    "original_language": "en",
+                    "original_title": "Fast X",
+                    "overview": "No décimo filme da série Velocidade Furiosa e último da nova trilogia (8, 9 e 10), ao longo de muitas missões e contra probabilidades que pareciam impossíveis, Dom Toretto (Vin Diesel) e a sua família foram mais espertos e superaram todos os inimigos no seu caminho. Agora, eles devem enfrentar o adversário mais letal que já encontraram. Alimentada pela vingança, uma ameaça terrível emerge das sombras do passado para destruir o mundo de Dom e destruir tudo - e todos - que ele ama. Toretto, comandando novamente a equipa de corredores mais conhecida do mundo, encara mais uma difícil missão sobre quatro rodas.",
+                    "popularity": 2667.036,
+                    "poster_path": "/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg",
+                    "release_date": "2023-05-17",
+                    "title": "Velocidade Furiosa X",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 84
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28
+                    ],
+                    "id": 447365,
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 3",
+                    "overview": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                    "popularity": 1766.934,
+                    "poster_path": "/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+                    "release_date": "2023-05-03",
+                    "title": "Guardiões da Galáxia: Volume 3",
+                    "video": false,
+                    "vote_average": 8.1,
+                    "vote_count": 1275
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        10749
+                    ],
+                    "id": 868759,
+                    "original_language": "en",
+                    "original_title": "Ghosted",
+                    "overview": "O humilde Cole apaixona-se pela enigmática Sadie - mas depois faz a descoberta chocante de que ela é uma agente secreta. Antes de poderem decidir se terão um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.",
+                    "popularity": 1411.383,
+                    "poster_path": "/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg",
+                    "release_date": "2023-04-18",
+                    "title": "Ghosted",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 806
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28
+                    ],
+                    "id": 76600,
+                    "original_language": "en",
+                    "original_title": "Avatar: The Way of Water",
+                    "overview": "\"Avatar O Caminho da Água\" decorre uma década após os acontecimentos do primeiro filme e conta a história da família Sully (Jake, Neytiri e os seus filhos), os seus problemas, as longas distâncias que vão percorrer para se manterem a salvo, as batalhas que lutam para se manterem vivos, e as tragédias que suportam.",
+                    "popularity": 1453.136,
+                    "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                    "release_date": "2022-12-14",
+                    "title": "Avatar: O Caminho da Água",
+                    "video": false,
+                    "vote_average": 7.7,
+                    "vote_count": 8039
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nDxJJyA5giRhXx96q1sWbOUjMBI.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        14
+                    ],
+                    "id": 594767,
+                    "original_language": "en",
+                    "original_title": "Shazam! Fury of the Gods",
+                    "overview": "Dotados com poderes dos Deuses, Billy Batson e a sua família adotiva ainda estão a aprender a gerir a vida adolescente com o alter-ego adulto de um Super-Herói. Quando as filhas de Atlas, um trio vingativo de antigos Deuses, chegam à Terra em busca da magia que lhes foi roubada, Billy aka Shazam! -e a sua família são obrigados a travar uma batalha para protegerem os seus superpoderes, as suas vidas e o destino do mundo.",
+                    "popularity": 1443.395,
+                    "poster_path": "/1qDivmsYL79dQZngyT3oKd4L9tA.jpg",
+                    "release_date": "2023-03-15",
+                    "title": "Shazam! Fúria dos Deuses",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 1621
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+                    "genre_ids": [
+                        10752,
+                        28,
+                        53
+                    ],
+                    "id": 882569,
+                    "original_language": "en",
+                    "original_title": "Guy Ritchie's The Covenant",
+                    "overview": "Um sargento do Exército é resgatado de uma missão no Afeganistão pelo seu intérprete. Naquela que seria a sua última missão no estrangeiro, Kinley fica à beira da morte mas sobrevive graças a Ahmed, que o protege e o carrega durante quilómetros a fim de garantir a sua segurança. E vida. Sem se lembrar muito bem do que aconteceu, o sargento apenas sabe que quando o homem se encontra em risco de vida, como a sua família, é a sua verdadeira missão retribuir o favor e ajudá-lo a sobreviver.",
+                    "popularity": 1903.56,
+                    "poster_path": "/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg",
+                    "release_date": "2023-04-19",
+                    "title": "Guy Ritchie's The Covenant",
+                    "video": false,
+                    "vote_average": 7.7,
+                    "vote_count": 174
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/zPEDfWece7gg1I0904KFFVUq5mg.jpg",
+                    "genre_ids": [
+                        53,
+                        28,
+                        80
+                    ],
+                    "id": 1102776,
+                    "original_language": "fr",
+                    "original_title": "AKA",
+                    "overview": "",
+                    "popularity": 1174.884,
+                    "poster_path": "/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg",
+                    "release_date": "2023-04-28",
+                    "title": "AKA",
+                    "video": false,
+                    "vote_average": 7,
+                    "vote_count": 278
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+                    "genre_ids": [
+                        28,
+                        53,
+                        80
+                    ],
+                    "id": 603692,
+                    "original_language": "en",
+                    "original_title": "John Wick: Chapter 4",
+                    "overview": "John Wick descobre uma forma de derrotar o conselho de senhores do crime que governam as organizações criminosas mais poderosas do submundo. Mas antes de ganhar a sua liberdade, Wick tem de enfrentar um novo inimigo com alianças poderosas e forças que transformam velhos amigos em inimigos.",
+                    "popularity": 1095.972,
+                    "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+                    "release_date": "2023-03-22",
+                    "title": "John Wick: Capítulo 4",
+                    "video": false,
+                    "vote_average": 7.9,
+                    "vote_count": 1423
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+                    "genre_ids": [
+                        18,
+                        28
+                    ],
+                    "id": 677179,
+                    "original_language": "en",
+                    "original_title": "Creed III",
+                    "overview": "Depois de dominar o mundo do boxe, Adonis Creed tem prosperado tanto na sua carreira e na sua vida familiar. Quando um amigo de infância e ex-prodígio do boxe, Damien Anderson, ressurge após cumprir uma longa sentença na prisão, ele está ansioso para provar que merece a sua oportunidade no ringue. O confronto entre ex-amigos é mais do que apenas uma briga. Para acertar as contas, Adonis deve colocar o seu futuro em risco para lutar contra Damien - um lutador que não tem nada a perder.",
+                    "popularity": 1063.483,
+                    "poster_path": "/wDugyjvDQsuwm9j9hkmK4whCOti.jpg",
+                    "release_date": "2023-03-01",
+                    "title": "Creed III",
+                    "video": false,
+                    "vote_average": 7.3,
+                    "vote_count": 1376
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qElNES0sHVQcbzvGrTx7ccpGzij.jpg",
+                    "genre_ids": [
+                        878,
+                        28,
+                        18
+                    ],
+                    "id": 842675,
+                    "original_language": "zh",
+                    "original_title": "流浪地球2",
+                    "overview": "Os humanos construíram enormes motores na superfície da terra para encontrar um novo lar. Mas a estrada para o universo é perigosa. Para salvar a Terra, os jovens mais uma vez precisam dar um passo à frente para iniciar uma corrida contra o tempo pela vida ou pela morte.",
+                    "popularity": 1412.376,
+                    "poster_path": "/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg",
+                    "release_date": "2023-01-22",
+                    "title": "The Wandering Earth 2",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 193
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/w26FmegnHL8BykasYNHADIEURBW.jpg",
+                    "genre_ids": [
+                        10752,
+                        36,
+                        28
+                    ],
+                    "id": 1037644,
+                    "original_language": "en",
+                    "original_title": "Battle for Saipan",
+                    "overview": "",
+                    "popularity": 947.818,
+                    "poster_path": "/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg",
+                    "release_date": "2023-02-24",
+                    "title": "Battle for Saipan",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 20
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aRJjCgp4uVUkXhDw8NClesQXbt3.jpg",
+                    "genre_ids": [
+                        53,
+                        28
+                    ],
+                    "id": 727340,
+                    "original_language": "ko",
+                    "original_title": "헌트",
+                    "overview": "",
+                    "popularity": 838.899,
+                    "poster_path": "/gLeUgQ7do6nDRCLMTUIv7DeAiGa.jpg",
+                    "release_date": "2022-08-10",
+                    "title": "헌트",
+                    "video": false,
+                    "vote_average": 6.9,
+                    "vote_count": 78
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/xwA90BwZXTh8ke3CVsQlj8EOkFr.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        36,
+                        18,
+                        10752
+                    ],
+                    "id": 948713,
+                    "original_language": "en",
+                    "original_title": "The Last Kingdom: Seven Kings Must Die",
+                    "overview": "No rescaldo da morte do rei Eduardo, Uhtred de Bebbanburg e os seus camaradas aventuram-se pelo reino fraturado na esperança de unir a Inglaterra de uma vez por todas.",
+                    "popularity": 772.344,
+                    "poster_path": "/mMbc0XeYyo85V8GPdyBXh3jEnEJ.jpg",
+                    "release_date": "2023-04-14",
+                    "title": "Sete Reis Irão Cair",
+                    "video": false,
+                    "vote_average": 7.3,
+                    "vote_count": 365
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/i1eghEBiC0gN4KnwuUGC2fNiX1f.jpg",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "id": 552688,
+                    "original_language": "en",
+                    "original_title": "The Mother",
+                    "overview": "Uma assassina com treino militar sai do esconderijo para proteger a filha que nunca conheceu de implacáveis criminosos em busca de vingança.",
+                    "popularity": 762.934,
+                    "poster_path": "/5OeWHBMifiRPMz6eS23miS5ttED.jpg",
+                    "release_date": "2023-05-04",
+                    "title": "A Mãe",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 361
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/yx96Xz7ggs7TMmDqAa8G5oJ5ami.jpg",
+                    "genre_ids": [
+                        37,
+                        28
+                    ],
+                    "id": 1111140,
+                    "original_language": "en",
+                    "original_title": "Two Sinners and a Mule",
+                    "overview": "",
+                    "popularity": 703.962,
+                    "poster_path": "/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg",
+                    "release_date": "2023-04-21",
+                    "title": "Two Sinners and a Mule",
+                    "video": false,
+                    "vote_average": 6.1,
+                    "vote_count": 15
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg",
+                    "genre_ids": [
+                        10751,
+                        14,
+                        28,
+                        12
+                    ],
+                    "id": 420808,
+                    "original_language": "en",
+                    "original_title": "Peter Pan & Wendy",
+                    "overview": "Wendy Darling, uma menina que procura evitar o colégio interno, conhece Peter Pan, um menino que se recusa a crescer. Com os seus irmãos e Sininho, uma pequena fada, ela viaja com Peter até ao mundo mágico da Terra do Nunca. Lá, encontra o Capitão Gancho, um capitão pirata e embarca numa aventura emocionante e perigoso que irá mudar a sua vida para sempre.",
+                    "popularity": 690.384,
+                    "poster_path": "/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg",
+                    "release_date": "2023-04-20",
+                    "title": "Peter Pan e Wendy",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 347
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nyZ8e7lRRwdF21NyydRIo0B9AXZ.jpg",
+                    "genre_ids": [
+                        28,
+                        10752
+                    ],
+                    "id": 840326,
+                    "original_language": "fi",
+                    "original_title": "Sisu",
+                    "overview": "Depois de anos à procura de ouro, Aatami Korpi, encontra finalmente o tesouro de uma vida. Para levar o achado das colinas da Lapônia para a cidade, terá de atravessar o deserto ocupado pelas tropas nazis.",
+                    "popularity": 959.99,
+                    "poster_path": "/uCAaaAQEDrTllYR4dtsEsfQa8We.jpg",
+                    "release_date": "2023-01-27",
+                    "title": "Sisu",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 114
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/cYyUinLXRbQwE4PAt2mQLTGBqti.jpg",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "id": 876969,
+                    "original_language": "en",
+                    "original_title": "Assassin Club",
+                    "overview": "",
+                    "popularity": 570.157,
+                    "poster_path": "/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg",
+                    "release_date": "2023-02-24",
+                    "title": "Assassin Club",
+                    "video": false,
+                    "vote_average": 6.7,
+                    "vote_count": 51
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28,
+                        35
+                    ],
+                    "id": 283995,
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 2",
+                    "overview": "Guardiões da Galáxia Vol. 2, da Marvel, continua a acompanhar as aventuras da equipa enquanto atravessa os limites do cosmos. Os Guardiões devem lutar para manter a sua família recém-descoberta unida, enquanto tentam desvendar o mistério do verdadeiro parentesco de Peter Quill. Antigos inimigos tornam-se novos aliados e as personagens favoritas das bandas desenhadas clássicas irão ajudar os nossos heróis.",
+                    "popularity": 414.696,
+                    "poster_path": "/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+                    "release_date": "2017-04-19",
+                    "title": "Guardiões da Galáxia Vol. 2",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 19701
+                }
+            ],
+            "total_pages": 1821,
+            "total_results": 36415
+        }
+    },
+    {
+        "slug": "comedy",
+        "title": "comédia",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/nLBRD7UPR6GjmWQp6ASAfCTaWKX.jpg",
+                    "genre_ids": [
+                        16,
+                        10751,
+                        12,
+                        14,
+                        35
+                    ],
+                    "id": 502356,
+                    "original_language": "en",
+                    "original_title": "The Super Mario Bros. Movie",
+                    "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+                    "popularity": 8501.774,
+                    "poster_path": "/kzYbNJ4JaQiRny0cDi8a6bNX5w3.jpg",
+                    "release_date": "2023-04-05",
+                    "title": "Super Mario Bros. O Filme",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 2570
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        10749
+                    ],
+                    "id": 868759,
+                    "original_language": "en",
+                    "original_title": "Ghosted",
+                    "overview": "O humilde Cole apaixona-se pela enigmática Sadie - mas depois faz a descoberta chocante de que ela é uma agente secreta. Antes de poderem decidir se terão um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.",
+                    "popularity": 1411.383,
+                    "poster_path": "/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg",
+                    "release_date": "2023-04-18",
+                    "title": "Ghosted",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 806
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nDxJJyA5giRhXx96q1sWbOUjMBI.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        14
+                    ],
+                    "id": 594767,
+                    "original_language": "en",
+                    "original_title": "Shazam! Fury of the Gods",
+                    "overview": "Dotados com poderes dos Deuses, Billy Batson e a sua família adotiva ainda estão a aprender a gerir a vida adolescente com o alter-ego adulto de um Super-Herói. Quando as filhas de Atlas, um trio vingativo de antigos Deuses, chegam à Terra em busca da magia que lhes foi roubada, Billy aka Shazam! -e a sua família são obrigados a travar uma batalha para protegerem os seus superpoderes, as suas vidas e o destino do mundo.",
+                    "popularity": 1443.395,
+                    "poster_path": "/1qDivmsYL79dQZngyT3oKd4L9tA.jpg",
+                    "release_date": "2023-03-15",
+                    "title": "Shazam! Fúria dos Deuses",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 1621
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/3uHDuQCoJQ6DhRlI3frd7p9WSE2.jpg",
+                    "genre_ids": [
+                        18,
+                        35
+                    ],
+                    "id": 868985,
+                    "original_language": "es",
+                    "original_title": "¡Que Viva México!",
+                    "overview": "",
+                    "popularity": 993.334,
+                    "poster_path": "/mZWLkJQeVy990LMFGlFJphOaioh.jpg",
+                    "release_date": "2023-03-23",
+                    "title": "¡Que Viva México!",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 60
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/e7FzphKs5gzoghDotAEp2FeP46u.jpg",
+                    "genre_ids": [
+                        27,
+                        35,
+                        14
+                    ],
+                    "id": 649609,
+                    "original_language": "en",
+                    "original_title": "Renfield",
+                    "overview": "Neste conto de terror moderno sobre o leal servo de Drácula, Renfield é o torturado assistente do patrão mais narcisista da História. Renfield é obrigado a arranjar as presas do seu mestre e cumprir todas as suas ordens, por mais malévolas que sejam. Mas agora, após séculos de servidão, Renfield está preparado para viver longe da sombra do Príncipe da Escuridão... só tem de descobrir como acabar com a sua dependência.",
+                    "popularity": 1267.379,
+                    "poster_path": "/nnryxxmgS17IBKvu23Hpg1mimZU.jpg",
+                    "release_date": "2023-04-07",
+                    "title": "Renfield",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 412
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/2rVkDZFLN6DI5PAoraoe9m4IRMN.jpg",
+                    "genre_ids": [
+                        12,
+                        14,
+                        35
+                    ],
+                    "id": 493529,
+                    "original_language": "en",
+                    "original_title": "Dungeons & Dragons: Honor Among Thieves",
+                    "overview": "Um ladrão cheio de charme e um bando de improváveis aventureiros preparam um assalto épico para recuperar uma relíquia perdida, mas tudo se complica ao entrarem em conflito com as pessoas erradas. \"Dungeons e Dragons: Honra entre Ladrões\" traz o mundo rico e o espírito lúdico do lendário jogo de RPG para o cinema, nesta clássica e hilariante aventura cheia de ação.",
+                    "popularity": 790.413,
+                    "poster_path": "/85ivt7lJm3J5Mqybdh59m09eksV.jpg",
+                    "release_date": "2023-03-23",
+                    "title": "Dungeons & Dragons: Honra Entre Ladrões",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "vote_count": 1243
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+                    "genre_ids": [
+                        16,
+                        10751,
+                        14,
+                        12,
+                        35
+                    ],
+                    "id": 315162,
+                    "original_language": "en",
+                    "original_title": "Puss in Boots: The Last Wish",
+                    "overview": "O Gato das Botas descobre que a sua paixão pela aventura tem tido o seu preço: ele queimou oito das suas nove vidas. O gato inicia uma viagem épica para encontrar o mítico Último Desejo e restaurar as suas nove vidas.",
+                    "popularity": 627.877,
+                    "poster_path": "/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg",
+                    "release_date": "2022-12-07",
+                    "title": "O Gato das Botas: O Último Desejo",
+                    "video": false,
+                    "vote_average": 8.3,
+                    "vote_count": 5532
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bT3IpP7OopgiVuy6HCPOWLuaFAd.jpg",
+                    "genre_ids": [
+                        35,
+                        80
+                    ],
+                    "id": 638974,
+                    "original_language": "en",
+                    "original_title": "Murder Mystery 2",
+                    "overview": "Após criarem uma agência de detetives, Nick e Audrey Spitz ficam a braços com um caso decisivo quando um amigo bilionário é raptado na sua própria boda.",
+                    "popularity": 617.045,
+                    "poster_path": "/pf1dQDb55mJ13KQMEYa4O0fni64.jpg",
+                    "release_date": "2023-03-28",
+                    "title": "Mistério em Paris",
+                    "video": false,
+                    "vote_average": 6.6,
+                    "vote_count": 1045
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ql4PnvKYKaMtdx9Ck4fHY2wJphT.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 32516,
+                    "original_language": "cn",
+                    "original_title": "金瓶梅2 愛的奴隸",
+                    "overview": "O rico e poderoso Simon Qing foi educado nas maneiras sexuais por seu pai viril, mas ainda é virgem. Isto é, até que ele conhece seu primeiro amor, Violetta, que se diverte com ele por toda a propriedade de seu pai. O amor deles não dura, então Simon embarca em uma jornada. No caminho, ele conhece a graciosa freira Moon, com quem Simon deflora e depois se casa. Ele então fica apaixonado por Lótus Dourado, mas ela é casada com o anão Wu Da-Lang.",
+                    "popularity": 523.296,
+                    "poster_path": "/rUv3JCETD0FsZepmcRuXXhHmqpC.jpg",
+                    "release_date": "2009-03-04",
+                    "title": "The Forbidden Legend: Sex & Chopsticks 2",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 81
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qUOJGvH8L31HL2b9Q6DGNPGCCI0.jpg",
+                    "genre_ids": [
+                        53,
+                        35,
+                        80
+                    ],
+                    "id": 804150,
+                    "original_language": "en",
+                    "original_title": "Cocaine Bear",
+                    "overview": "Uma comédia negra e selvagem inspirada na história verídica do despiste do avião de um traficante de droga ocorrido em 1985, no qual a cocaína perdida foi consumida por um urso negro. Nesta comédia, deparamo-nos com um grupo bizarro de polícias, criminosos, turistas e adolescentes perdidos na floresta da Georgia onde um predador, com mais de 200kgs, terá ingerido uma quantidade monstruosa de cocaína…",
+                    "popularity": 452.323,
+                    "poster_path": "/7tBvUMyZeJvpaAcnbV3vcCa753K.jpg",
+                    "release_date": "2023-02-22",
+                    "title": "O Urso do Pó Branco",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 1041
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                    "genre_ids": [
+                        878,
+                        12,
+                        28,
+                        35
+                    ],
+                    "id": 283995,
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 2",
+                    "overview": "Guardiões da Galáxia Vol. 2, da Marvel, continua a acompanhar as aventuras da equipa enquanto atravessa os limites do cosmos. Os Guardiões devem lutar para manter a sua família recém-descoberta unida, enquanto tentam desvendar o mistério do verdadeiro parentesco de Peter Quill. Antigos inimigos tornam-se novos aliados e as personagens favoritas das bandas desenhadas clássicas irão ajudar os nossos heróis.",
+                    "popularity": 414.696,
+                    "poster_path": "/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+                    "release_date": "2017-04-19",
+                    "title": "Guardiões da Galáxia Vol. 2",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 19701
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+                    "genre_ids": [
+                        16,
+                        35,
+                        10751,
+                        12,
+                        14
+                    ],
+                    "id": 816904,
+                    "original_language": "es",
+                    "original_title": "Momias",
+                    "overview": "No Egipto, nas profundezas da Terra, existe uma cidade de múmias com 3 mil anos. Por ordens imperiais, a Princesa Néfer terá de se casar com Thut, mas nenhum dos dois o quer fazer: Néfer anseia pela sua liberdade e Thut tem aversão a compromissos. Só que os desejos dos deuses são incontornáveis, e Thut terá de casar com Néfer dentro de sete dias, oferecendo no casamento a antiga aliança que o Faraó lhe deu.",
+                    "popularity": 342.234,
+                    "poster_path": "/olT9HuXfnMVFqDGjLhllKe5EuQP.jpg",
+                    "release_date": "2023-01-05",
+                    "title": "As Mumias",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 283
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35
+                    ],
+                    "id": 384018,
+                    "original_language": "en",
+                    "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+                    "overview": "Desde que o possante Hobbs, um dedicado operacional do Serviço de Segurança Diplomática dos Estados Unidos, e o rebelde Shaw, um antigo agente do exército britânico, se enfrentaram pela primeira vez em \"Velocidade Furiosa 7\", a dupla trocou insultos e socos, enquanto tentavam dar cabo um ao outro. Agora, quando Brixton, um anarquista cibernético geneticamente alterado, assume o controlo de uma ameaça biológica que pode mudar a humanidade para sempre, os dois inimigos têm de se unir para destruir o único homem mais perigoso do que eles.",
+                    "popularity": 342.581,
+                    "poster_path": "/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+                    "release_date": "2019-08-01",
+                    "title": "Velocidade Furiosa: Hobbs & Shaw",
+                    "video": false,
+                    "vote_average": 6.9,
+                    "vote_count": 6337
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bPlmTl2rrnzgRKinLvs4GUd0DPb.jpg",
+                    "genre_ids": [
+                        35
+                    ],
+                    "id": 1118721,
+                    "original_language": "es",
+                    "original_title": "Quiero Tu Vida",
+                    "overview": "",
+                    "popularity": 298.331,
+                    "poster_path": "/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",
+                    "release_date": "2023-05-03",
+                    "title": "Quiero Tu Vida",
+                    "video": false,
+                    "vote_average": 6.4,
+                    "vote_count": 22
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/43WkvO1EVTHz2rTlswdhmzjlNRF.jpg",
+                    "genre_ids": [
+                        35
+                    ],
+                    "id": 1120558,
+                    "original_language": "es",
+                    "original_title": "Bendita Suegra",
+                    "overview": "",
+                    "popularity": 365.836,
+                    "poster_path": "/5xupm2thQic5GzYi6nim6URMZOY.jpg",
+                    "release_date": "2023-05-10",
+                    "title": "Bendita Suegra",
+                    "video": false,
+                    "vote_average": 8.2,
+                    "vote_count": 18
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bWZ4ge00FlDyHcOQZl7AzbZcrxT.jpg",
+                    "genre_ids": [
+                        35,
+                        28
+                    ],
+                    "id": 325358,
+                    "original_language": "en",
+                    "original_title": "Superfast!",
+                    "overview": "Em Superfast!, sátira aos filmes e aos personagens da série de ação Velocidade Furiosa, o policial Paul White (Alex Ashbaugh), trabalhando sob disfarce, chega junto à gangue ilegal de corredores de rua liderada por Vin Serento (Dale Pavinski), numa das provas noturnas do grupo. Vin e Paul provam no asfalto que são velozes, são furiosos e juntos decidem elaborar um plano para dar um golpe duplo num dos mais perigosos chefões do crime de Los Angeles, Juan Carlos de la Sol (Omar Chaparro).",
+                    "popularity": 425.075,
+                    "poster_path": "/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
+                    "release_date": "2015-03-05",
+                    "title": "Velozes Como um Raio... Que os Parta!",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 345
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+                    "genre_ids": [
+                        878,
+                        27,
+                        35
+                    ],
+                    "id": 536554,
+                    "original_language": "en",
+                    "original_title": "M3GAN",
+                    "overview": "M3GAN é uma complexa inteligência artificial, uma boneca com vida que programada para ser a melhor companhia de uma criança e a maior aliada dos pais. Concebida pela brilhante robótica Gemma, M3GAN pode ouvir, observar e aprender à medida que se torna amiga e professora, companheira de brincadeiras e protetora, para a criança a quem está “emocionalmente” ligada. Quando Gemma se torna subitamente na tutora de Cady, a sua sobrinha órfã de 8 anos, sente-se insegura e pouco preparada para ser mãe. Com dificuldades em gerir a pressão no trabalho e sua nova realidade familiar, Gemma decide juntar o seu protótipo M3GAN e Cady, numa tentativa de resolver os seus problemas -uma decisão que terá consequências inimagináveis...",
+                    "popularity": 281.376,
+                    "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+                    "release_date": "2022-12-28",
+                    "title": "M3GAN",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 2605
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/j9ijjTr4CU1koghXjxoEbCl8Yba.jpg",
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "id": 44281,
+                    "original_language": "ar",
+                    "original_title": "عصفور السطح",
+                    "overview": "",
+                    "popularity": 227.976,
+                    "poster_path": "/uI7hb9flZetd0KZoN2BGHLq4uvZ.jpg",
+                    "release_date": "1990-09-14",
+                    "title": "عصفور السطح",
+                    "video": false,
+                    "vote_average": 6.8,
+                    "vote_count": 34
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/lzbrMjEnH34DzTfllRb6XxhlaZu.jpg",
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "id": 81774,
+                    "original_language": "fr",
+                    "original_title": "Les Exploits d'un jeune Don Juan",
+                    "overview": "",
+                    "popularity": 210.26,
+                    "poster_path": "/fo93DwVK9AjuPuZr7lniRj2OZwD.jpg",
+                    "release_date": "1986-11-04",
+                    "title": "Les Exploits d'un jeune Don Juan",
+                    "video": false,
+                    "vote_average": 5.7,
+                    "vote_count": 137
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        10749
+                    ],
+                    "id": 758009,
+                    "original_language": "en",
+                    "original_title": "Shotgun Wedding",
+                    "overview": "Darcy e Tom reúnem suas famílias para o destino final do casamento, mas quando toda a festa é tomada como refém, “'Til Death Do Us Part” assume um significado totalmente novo nesta aventura hilária e cheia de adrenalina, enquanto Darcy e Tom devem salvar seus entes queridos. uns - se eles não se matarem primeiro.",
+                    "popularity": 260.722,
+                    "poster_path": "/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg",
+                    "release_date": "2022-12-28",
+                    "title": "Casamento Armado",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 819
+                }
+            ],
+            "total_pages": 5788,
+            "total_results": 115760
+        }
+    },
+    {
+        "slug": "horror",
+        "title": "Terror",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+                    "genre_ids": [
+                        53,
+                        27,
+                        14
+                    ],
+                    "id": 713704,
+                    "original_language": "en",
+                    "original_title": "Evil Dead Rise",
+                    "overview": "Duas irmãs distantes cujo reencontro é interrompido por demônios devoradores de carne que aparecem de repente, levando-as a uma batalha primal pela sobrevivência, enfrentando a versão mais assustadora que se possa imaginar de uma família.",
+                    "popularity": 3811.117,
+                    "poster_path": "/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg",
+                    "release_date": "2023-04-12",
+                    "title": "A Morte do Demônio: A Ascensão",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 1104
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+                    "genre_ids": [
+                        27,
+                        53,
+                        14
+                    ],
+                    "id": 758323,
+                    "original_language": "en",
+                    "original_title": "The Pope's Exorcist",
+                    "overview": "O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.",
+                    "popularity": 1926.839,
+                    "poster_path": "/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg",
+                    "release_date": "2023-04-05",
+                    "title": "O Exorcista do Papa",
+                    "video": false,
+                    "vote_average": 7.2,
+                    "vote_count": 1015
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+                    "genre_ids": [
+                        27,
+                        9648,
+                        53
+                    ],
+                    "id": 934433,
+                    "original_language": "en",
+                    "original_title": "Scream VI",
+                    "overview": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+                    "popularity": 930.217,
+                    "poster_path": "/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+                    "release_date": "2023-03-08",
+                    "title": "Pânico VI",
+                    "video": false,
+                    "vote_average": 7.3,
+                    "vote_count": 1193
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/e7FzphKs5gzoghDotAEp2FeP46u.jpg",
+                    "genre_ids": [
+                        27,
+                        35,
+                        14
+                    ],
+                    "id": 649609,
+                    "original_language": "en",
+                    "original_title": "Renfield",
+                    "overview": "Renfield, o sofrido ajudante do chefe mais narcisista da história, Drácula, é forçado a encontrar as vítimas para seu mestre e fazer tudo o que ele lhe pede, qualquer que seja o grau de degradação da ordem recebida. Mas agora, depois de séculos de servidão, Renfield está pronto para descobrir se há vida lá fora, além da sombra do Príncipe das Trevas. Se pelo menos ele puder descobrir como dar fim à sua dependência dele.",
+                    "popularity": 1267.379,
+                    "poster_path": "/nnryxxmgS17IBKvu23Hpg1mimZU.jpg",
+                    "release_date": "2023-04-07",
+                    "title": "Dando Sangue pelo Chefe",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 412
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/wUwFMnbFxuDfcRSGGT7QQIGDRrH.jpg",
+                    "genre_ids": [
+                        27
+                    ],
+                    "id": 785759,
+                    "original_language": "en",
+                    "original_title": "Two Witches",
+                    "overview": "Uma mulher grávida está convencida de que foi amaldiçoada por uma bruxa. Enquanto outra mulher, com impulsos violentos, espera herdar os poderes de sua bisavó. Duas gerações de bruxas e as terríveis consequências para aqueles que cruzam seu caminho.",
+                    "popularity": 608.868,
+                    "poster_path": "/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg",
+                    "release_date": "2023-03-02",
+                    "title": "Duas Bruxas: A Herança Diabólica",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 51
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bF2skCyB5jeJuO26GFaQIGHrMNl.jpg",
+                    "genre_ids": [
+                        27,
+                        9648,
+                        53
+                    ],
+                    "id": 1085103,
+                    "original_language": "en",
+                    "original_title": "Clock",
+                    "overview": "Ella é uma estrela em ascensão no Design de Interiores, mora em uma casa digna de revista e é casada com um marido amoroso. Mas Ella se sente excluída porque... Ella não quer filhos. Quando Ella fica sabendo de um ensaio clínico em que seu problema está sendo considerado uma questão de fertilidade, ela decide se inscrever. Para sua surpresa, o tratamento funciona, mas a que custo?",
+                    "popularity": 386.805,
+                    "poster_path": "/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg",
+                    "release_date": "2023-03-28",
+                    "title": "Tic-Tac: A Maternidade do Mal",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 77
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/cZzZlwGvxiByXam0lZ57J9IN233.jpg",
+                    "genre_ids": [
+                        27
+                    ],
+                    "id": 1008005,
+                    "original_language": "es",
+                    "original_title": "La niña de la comunión",
+                    "overview": "Espanha, final dos anos 1980. A recém-chegada Sara tenta se encaixar com os outros adolescentes nesta pequena cidade unida na província de Tarrgona. Se ao menos ela fosse mais parecida com seu melhor amigo extrovertido, Rebe. Eles saem uma noite em uma boate, a caminho de casa, eles se deparam com uma menina segurando uma boneca, vestida para sua primeira comunhão. E é aí que o pesadelo começa.",
+                    "popularity": 328.853,
+                    "poster_path": "/n3OMdCgi0shnyDraUCnHmwAT7Op.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "A Primeira Comunhão",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 107
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+                    "genre_ids": [
+                        27,
+                        53
+                    ],
+                    "id": 980078,
+                    "original_language": "en",
+                    "original_title": "Winnie the Pooh: Blood and Honey",
+                    "overview": "Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.",
+                    "popularity": 333.54,
+                    "poster_path": "/jJZagdWBtpDUpCKHzrVwJRMKJL6.jpg",
+                    "release_date": "2023-01-27",
+                    "title": "Ursinho Pooh: Sangue e Mel",
+                    "video": false,
+                    "vote_average": 5.7,
+                    "vote_count": 587
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+                    "genre_ids": [
+                        878,
+                        27,
+                        35
+                    ],
+                    "id": 536554,
+                    "original_language": "en",
+                    "original_title": "M3GAN",
+                    "overview": "Uma brilhante roboticista de uma empresa de brinquedos usa inteligência artificial para desenvolver M3GAN, uma boneca realista programada para se relacionar emocionalmente com sua sobrinha recém-órfã. Mas quando a programação da boneca funciona muito bem, ela se torna superprotetora de sua nova amiga... com resultados aterrorizantes.",
+                    "popularity": 281.376,
+                    "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+                    "release_date": "2022-12-28",
+                    "title": "M3GAN",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 2605
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
+                    "genre_ids": [
+                        27,
+                        14,
+                        878,
+                        53
+                    ],
+                    "id": 296271,
+                    "original_language": "en",
+                    "original_title": "The Devil Conspiracy",
+                    "overview": "Uma poderosa empresa de biotecnologia faz uma descoberta de ponta, permitindo a clonagem de a partir de meros fragmentos de DNA, inclusive figuras históricas. Por trás dessa empresa, está um grupo de satanistas que rouba o Santo Sudário, ficando em posse do DNA de Jesus Cristo. O clone será a última oferenda ao Diabo. O Arcanjo Miguel vem à Terra e fará de tudo para acabar com esta profecia do mal.",
+                    "popularity": 254.736,
+                    "poster_path": "/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg",
+                    "release_date": "2023-01-13",
+                    "title": "A Profecia do Mal",
+                    "video": false,
+                    "vote_average": 6.4,
+                    "vote_count": 159
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5qlmAFORL49yTOPxhwBWABW2zm0.jpg",
+                    "genre_ids": [
+                        27
+                    ],
+                    "id": 1105014,
+                    "original_language": "en",
+                    "original_title": "Ripper's Revenge",
+                    "overview": "",
+                    "popularity": 237.958,
+                    "poster_path": "/cuEIBHTWAvaYkhhS8HfOkhce2MB.jpg",
+                    "release_date": "2023-04-03",
+                    "title": "Ripper's Revenge",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 21
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bKWFetR4injOJXOGHeLuTD7wHI4.jpg",
+                    "genre_ids": [
+                        27,
+                        53,
+                        14
+                    ],
+                    "id": 994128,
+                    "original_language": "es",
+                    "original_title": "Viejos",
+                    "overview": "",
+                    "popularity": 252.885,
+                    "poster_path": "/31W5qM3rfsdJwQCWjDRXa00T8xJ.jpg",
+                    "release_date": "2023-04-21",
+                    "title": "Viejos",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 14
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aHcWyh0n4YbBy9gxYCDlgsNVS3M.jpg",
+                    "genre_ids": [
+                        27,
+                        53
+                    ],
+                    "id": 631842,
+                    "original_language": "en",
+                    "original_title": "Knock at the Cabin",
+                    "overview": "Durante as férias em uma cabana remota, uma jovem e seus pais são feitos reféns por quatro estranhos armados que exigem que a família faça uma escolha impensável para evitar o apocalipse. Com acesso limitado ao mundo exterior, a família deve decidir no que acredita antes que tudo esteja perdido.",
+                    "popularity": 270.623,
+                    "poster_path": "/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg",
+                    "release_date": "2023-02-01",
+                    "title": "Batem à Porta",
+                    "video": false,
+                    "vote_average": 6.4,
+                    "vote_count": 1450
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/aVPR4EScBkSgznEy0TixQk8z4Ny.jpg",
+                    "genre_ids": [
+                        53,
+                        9648,
+                        18,
+                        27
+                    ],
+                    "id": 1114905,
+                    "original_language": "es",
+                    "original_title": "Uno para morir",
+                    "overview": "Sete pessoas acordam sequestradas em uma mansão para fazerem parte de um jogo mortal. À medida que o relógio avança, para sobreviver, os sete competidores devem escolher um morrerá e o escolhido terá que concordar. Em 60 minutos, os maiores segredos virão à tona e eles descobrirão que estão todos unidos por um passado sombrio.",
+                    "popularity": 254.106,
+                    "poster_path": "/yDziA0OTfZq19IBlQ6EUemraSfY.jpg",
+                    "release_date": "2023-05-05",
+                    "title": "A Roleta da Morte",
+                    "video": false,
+                    "vote_average": 6.6,
+                    "vote_count": 79
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/AsEgGeccI32SwMBkxpwhOkhbzmF.jpg",
+                    "genre_ids": [
+                        28,
+                        878,
+                        53,
+                        27
+                    ],
+                    "id": 1011679,
+                    "original_language": "en",
+                    "original_title": "Shark Side of the Moon",
+                    "overview": "Décadas atrás, a URSS desenvolveu tubarões impossíveis de matar e os lançou à lua. Hoje, uma equipe de astronautas americanos enfrentará a luta de suas vidas.",
+                    "popularity": 231.916,
+                    "poster_path": "/v5CfpzxoJDkZxjZAizClFdlEF0U.jpg",
+                    "release_date": "2022-08-12",
+                    "title": "Shark Side of the Moon",
+                    "video": false,
+                    "vote_average": 5.3,
+                    "vote_count": 124
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/cevmHkKqSlrTYqpJ5eaAjml1jec.jpg",
+                    "genre_ids": [
+                        28,
+                        18,
+                        27,
+                        878,
+                        53
+                    ],
+                    "id": 1084225,
+                    "original_language": "en",
+                    "original_title": "The Park",
+                    "overview": "",
+                    "popularity": 235.595,
+                    "poster_path": "/hR1jdCw0A9czgsbp45TASkjjBhA.jpg",
+                    "release_date": "2023-03-02",
+                    "title": "The Park",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 43
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/u5nY7pY2Y58o7dSM9cy6NclOV8V.jpg",
+                    "genre_ids": [
+                        27
+                    ],
+                    "id": 1023313,
+                    "original_language": "es",
+                    "original_title": "La Exorcista",
+                    "overview": "Ofelia, uma jovem freira é forçada a realizar um exorcismo em uma mulher grávida depois que o padre local é derrotado pelo diabo. Quando parece que a possessão acabou, ela descobre que a presença maligna não saiu da cidade e que, pelas próximas quarenta e oito horas, tentará retornar ao corpo de sua vítima. Ela terá que se tornar uma exorcista para enfrentar um duelo de morte contra o Demônio.",
+                    "popularity": 212.154,
+                    "poster_path": "/h6yJx1E8rSJIiHfAX5uYLY9vFdr.jpg",
+                    "release_date": "2022-11-02",
+                    "title": "A Exorcista",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 80
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/7eccX0xay9pDj6ZQvU4cu3whw18.jpg",
+                    "genre_ids": [
+                        16,
+                        14,
+                        27,
+                        28,
+                        9648
+                    ],
+                    "id": 1003579,
+                    "original_language": "en",
+                    "original_title": "Batman: The Doom That Came to Gotham",
+                    "overview": "Durante uma longa viagem de descoberta, na qual adotou três órfãos pelo mundo, Bruce Wayne encontra o Pinguim no ártico e descobre que um culto planeja a destruição de Gotham City. Agora, ele precisa voltar para casa e vestir o manto do Batman para proteger a cidade onde seus pais foram assassinados por um louco vinte anos antes. Mas será que o herói que acredita na ciência conseguirá manter sua sanidade quando descobrir que não está enfrentando criminosos ou loucos, mas magia antiga, demônios de fogo e deuses antigos interdimensionais?",
+                    "popularity": 185.421,
+                    "poster_path": "/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg",
+                    "release_date": "2023-03-10",
+                    "title": "Batman: A Perdição Chegou a Gotham",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 86
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/o6PcqdeWMhvDGSkbzgKNfnzd2Js.jpg",
+                    "genre_ids": [
+                        27
+                    ],
+                    "id": 984105,
+                    "original_language": "en",
+                    "original_title": "The Mummy Resurrection",
+                    "overview": "Quando um sarcófago amaldiçoado cai nas mãos de Everett Randolph, um inescrupuloso vendedor ambulante, ele se torna obcecado pela ideia de ressuscitar a princesa mumificada dentro dele.",
+                    "popularity": 187.082,
+                    "poster_path": "/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg",
+                    "release_date": "2023-01-02",
+                    "title": "A Ressurreição da Múmia",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 13
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/fpaVxLcSQnnMdtcCRdZV0eTjJPg.jpg",
+                    "genre_ids": [
+                        14,
+                        18,
+                        27
+                    ],
+                    "id": 60898,
+                    "original_language": "cn",
+                    "original_title": "聊齋艷譚",
+                    "overview": "",
+                    "popularity": 176.367,
+                    "poster_path": "/fTUCwsxVoLFuodAtlL6aITP1B45.jpg",
+                    "release_date": "1990-05-19",
+                    "title": "Uma História Erótica de Fantasmas",
+                    "video": false,
+                    "vote_average": 6.1,
+                    "vote_count": 31
+                }
+            ],
+            "total_pages": 1970,
+            "total_results": 39397
+        }
+    },
+    {
+        "slug": "romance",
+        "title": "Romance",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        10749
+                    ],
+                    "id": 868759,
+                    "original_language": "en",
+                    "original_title": "Ghosted",
+                    "overview": "O humilde Cole apaixona-se pela enigmática Sadie - mas depois faz a descoberta chocante de que ela é uma agente secreta. Antes de poderem decidir se terão um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.",
+                    "popularity": 1411.383,
+                    "poster_path": "/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg",
+                    "release_date": "2023-04-18",
+                    "title": "Ghosted",
+                    "video": false,
+                    "vote_average": 7.1,
+                    "vote_count": 806
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ql4PnvKYKaMtdx9Ck4fHY2wJphT.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 32516,
+                    "original_language": "cn",
+                    "original_title": "金瓶梅2 愛的奴隸",
+                    "overview": "O rico e poderoso Simon Qing foi educado nas maneiras sexuais por seu pai viril, mas ainda é virgem. Isto é, até que ele conhece seu primeiro amor, Violetta, que se diverte com ele por toda a propriedade de seu pai. O amor deles não dura, então Simon embarca em uma jornada. No caminho, ele conhece a graciosa freira Moon, com quem Simon deflora e depois se casa. Ele então fica apaixonado por Lótus Dourado, mas ela é casada com o anão Wu Da-Lang.",
+                    "popularity": 523.296,
+                    "poster_path": "/rUv3JCETD0FsZepmcRuXXhHmqpC.jpg",
+                    "release_date": "2009-03-04",
+                    "title": "The Forbidden Legend: Sex & Chopsticks 2",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 81
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/7cra09dpSPto2jGZlK7OMbeO90O.jpg",
+                    "genre_ids": [
+                        10749
+                    ],
+                    "id": 654374,
+                    "original_language": "ko",
+                    "original_title": "막내 처제",
+                    "overview": "",
+                    "popularity": 757.063,
+                    "poster_path": "/hC9yqXygRNVDz2B9NfZocqmhczM.jpg",
+                    "release_date": "2019-12-08",
+                    "title": "막내 처제",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/pbMbDlOAkVuvnxovBA2ENin59xH.jpg",
+                    "genre_ids": [
+                        12,
+                        10751,
+                        14,
+                        10749
+                    ],
+                    "id": 447277,
+                    "original_language": "en",
+                    "original_title": "The Little Mermaid",
+                    "overview": "\"A Pequena Sereia\", a reinterpretação em imagem real do cineasta visionário Rob Marshall do premiado clássico de animação musical. \"A Pequena Sereia\" é a história adorada de Ariel, uma animada jovem sereia com sede de aventura. A filha mais nova e mais rebelde do Rei Tritão, Ariel deseja descobrir mais sobre o mundo para além do mar, e enquanto visita a superfície, apaixona-se pelo Príncipe Eric. Embora as sereias estejam proibidas de interagir com humanos, Ariel tem de seguir o seu coração. Ela faz um pacto com Úrsula, a bruxa maléfica do mar, que lhe dá a oportunidade de experienciar a vida em terra, mas acaba por colocar em risco a sua própria vida, assim como a coroa do seu pai.",
+                    "popularity": 439.41,
+                    "poster_path": "/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg",
+                    "release_date": "2023-05-18",
+                    "title": "A Pequena Sereia",
+                    "video": false,
+                    "vote_average": 5.5,
+                    "vote_count": 19
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/yELOCXWN7mHpztKppR3ZLWG0CUp.jpg",
+                    "genre_ids": [
+                        18,
+                        10749
+                    ],
+                    "id": 1079078,
+                    "original_language": "no",
+                    "original_title": "Royalteen: Princess Margrethe",
+                    "overview": "",
+                    "popularity": 359.618,
+                    "poster_path": "/oWmcC2RENbkdS3BuPor530KzKDc.jpg",
+                    "release_date": "2023-05-11",
+                    "title": "Royalteen: Princess Margrethe",
+                    "video": false,
+                    "vote_average": 7,
+                    "vote_count": 35
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ryQbb26wl1ggtypXiZW0kjKZCrP.jpg",
+                    "genre_ids": [
+                        18,
+                        12,
+                        10749,
+                        28,
+                        36
+                    ],
+                    "id": 67308,
+                    "original_language": "cn",
+                    "original_title": "3D肉蒲團之極樂寶鑑",
+                    "overview": "Durante a Dinastia Ming, na China do século 17, um jovem magistrado, muito respeitado e conceituado na comunidade, acredita que a vida é curta e que as pessoas devem se entregar aos prazeres que nossa existência pode oferecer – e ele segue esse lema. Ao conhecer a bela filha de um influente líder religioso, o rapaz acredita que achou a parceira ideal para viver a vida como deseja.\r Depois de casados, contudo, o magistrado descobre que sua esposa é, apesar de bela e interessante, muito diferente do que ele imaginava e seus desejos não são satisfeitos por ela – a moça foi criada de forma rígida e religiosa ao extremo. Com isso, ele começa a buscar o prazer de todos os modos possíveis fora de casa.\r Solitária, a garota também começa a ter seus desejos por prazer crescendo cada vez mais, já que antes eles eram reprimidos por seu pai. Sem o marido por perto, ela também encontra o prazer fora de casa, em uma relação secreta com um dos empregados.",
+                    "popularity": 382.323,
+                    "poster_path": "/mmvFokJgpFmNt522Hfpq3Zfs2Ra.jpg",
+                    "release_date": "2011-04-14",
+                    "title": "Paixão e Êxtase",
+                    "video": false,
+                    "vote_average": 4.9,
+                    "vote_count": 93
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+                    "genre_ids": [
+                        28,
+                        35,
+                        10749
+                    ],
+                    "id": 758009,
+                    "original_language": "en",
+                    "original_title": "Shotgun Wedding",
+                    "overview": "Darcy e Tom reúnem suas famílias para o destino final do casamento, mas quando toda a festa é tomada como refém, “'Til Death Do Us Part” assume um significado totalmente novo nesta aventura hilária e cheia de adrenalina, enquanto Darcy e Tom devem salvar seus entes queridos. uns - se eles não se matarem primeiro.",
+                    "popularity": 260.722,
+                    "poster_path": "/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg",
+                    "release_date": "2022-12-28",
+                    "title": "Casamento Armado",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 819
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/koSIWq7ra4MAw5QBtbgs4kINKws.jpg",
+                    "genre_ids": [
+                        10749,
+                        35
+                    ],
+                    "id": 826942,
+                    "original_language": "en",
+                    "original_title": "Spin Me Round",
+                    "overview": "",
+                    "popularity": 280.371,
+                    "poster_path": "/e8ytcOVknKRpmet2Jv5d2SCU0re.jpg",
+                    "release_date": "2022-08-19",
+                    "title": "Spin Me Round",
+                    "video": false,
+                    "vote_average": 4.9,
+                    "vote_count": 51
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/vFJ208yMK5rWoJ1aBy1Q1AsXzVp.jpg",
+                    "genre_ids": [
+                        10749
+                    ],
+                    "id": 701952,
+                    "original_language": "ko",
+                    "original_title": "여친 엄마2",
+                    "overview": "",
+                    "popularity": 293.684,
+                    "poster_path": "/5OMeVCF5jZpCrrvJNEMMP0vOoIH.jpg",
+                    "release_date": "2018-08-30",
+                    "title": "여친 엄마2",
+                    "video": false,
+                    "vote_average": 2.2,
+                    "vote_count": 5
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/jBIMZ0AlUYuFNsKbd4L6FojWMoy.jpg",
+                    "genre_ids": [
+                        16,
+                        35,
+                        10749
+                    ],
+                    "id": 820067,
+                    "original_language": "ja",
+                    "original_title": "映画 五等分の花嫁",
+                    "overview": "",
+                    "popularity": 163.108,
+                    "poster_path": "/fOTg158koIDobG9Dhh94unOuKd8.jpg",
+                    "release_date": "2022-05-20",
+                    "title": "映画 五等分の花嫁",
+                    "video": false,
+                    "vote_average": 8.4,
+                    "vote_count": 283
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/9EIUIgBYzGra7Xxemgs8JB049si.jpg",
+                    "genre_ids": [
+                        35,
+                        10749
+                    ],
+                    "id": 676841,
+                    "original_language": "es",
+                    "original_title": "Infelices para Siempre",
+                    "overview": "",
+                    "popularity": 153.447,
+                    "poster_path": "/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg",
+                    "release_date": "2023-01-26",
+                    "title": "Infelices para Siempre",
+                    "video": false,
+                    "vote_average": 7,
+                    "vote_count": 136
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+                    "genre_ids": [
+                        10749,
+                        18
+                    ],
+                    "id": 829560,
+                    "original_language": "pl",
+                    "original_title": "Kolejne 365 dni",
+                    "overview": "",
+                    "popularity": 149.834,
+                    "poster_path": "/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg",
+                    "release_date": "2022-08-19",
+                    "title": "Kolejne 365 dni",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 735
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+                    "genre_ids": [
+                        18,
+                        36,
+                        10749
+                    ],
+                    "id": 9453,
+                    "original_language": "en",
+                    "original_title": "Caligola",
+                    "overview": "Calígula - o filme, é uma das mais polêmicas produções do cinema. O único que mostra o show de perversões que o Império Romano escondia, e conta a história de Calígula o mais louco dos imperadores, que mantinha um bizarro caso sexual com sua irmã, e era casado com a mais infame das prostitutas. Ao mesmo tempo que Calígula vivia cercado de bajuladores, tinha também inimigos perigosos, loucos para vê-lo longe do poder. Superprodução com elenco do primeiro time, onde se destacam Malcolm McDowell, Peter O'Toole, John Gielgud e Hellen Mirren, Calígula é um filme que choca pela sua beleza e naturalidade com que trata temas considerados tabus pela sociedade. Esta versão que comemora os 20 anos do filme, contém cenas adicionais inéditas, dirigidas por Bob Guccione criador da Revista Penthouse, uma das bíblias do erotismo mundial.",
+                    "popularity": 191.783,
+                    "poster_path": "/5TpS5yJQT64lSglaD7D1AvhHKw2.jpg",
+                    "release_date": "1979-08-14",
+                    "title": "Caligula",
+                    "video": false,
+                    "vote_average": 6,
+                    "vote_count": 666
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/wyJQgqerZ0LuDjqcrbugYwzLcLC.jpg",
+                    "genre_ids": [
+                        16,
+                        10749,
+                        878
+                    ],
+                    "id": 874745,
+                    "original_language": "ja",
+                    "original_title": "君を愛したひとりの僕へ",
+                    "overview": "",
+                    "popularity": 160.03,
+                    "poster_path": "/fcxJCxRSJQ9XLJUjjDdHJvuLYWm.jpg",
+                    "release_date": "2022-10-07",
+                    "title": "君を愛したひとりの僕へ",
+                    "video": false,
+                    "vote_average": 5.5,
+                    "vote_count": 37
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/m0mLjT3TkTXYU2e1XP3wmYDlIml.jpg",
+                    "genre_ids": [
+                        10749,
+                        35
+                    ],
+                    "id": 873256,
+                    "original_language": "pl",
+                    "original_title": "Gorzko, gorzko!",
+                    "overview": "",
+                    "popularity": 153.233,
+                    "poster_path": "/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg",
+                    "release_date": "2023-04-26",
+                    "title": "Gorzko, gorzko!",
+                    "video": false,
+                    "vote_average": 6.5,
+                    "vote_count": 18
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/dqTOcdf1ILtakesKUhBOutaIee3.jpg",
+                    "genre_ids": [
+                        16,
+                        10749,
+                        878
+                    ],
+                    "id": 874743,
+                    "original_language": "ja",
+                    "original_title": "僕が愛したすべての君へ",
+                    "overview": "",
+                    "popularity": 146.345,
+                    "poster_path": "/zQqUvA1rxSceehwoChsKB780plX.jpg",
+                    "release_date": "2022-10-07",
+                    "title": "僕が愛したすべての君へ",
+                    "video": false,
+                    "vote_average": 6.7,
+                    "vote_count": 10
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qAfGVKCOg1ueNFOA9KL85lo9zox.jpg",
+                    "genre_ids": [
+                        10749,
+                        18,
+                        35
+                    ],
+                    "id": 1016121,
+                    "original_language": "en",
+                    "original_title": "Beautiful Disaster",
+                    "overview": "Bad-boy Travis é exatamente o que a caloura Abby precisa e quer evitar. Ele passa suas noites lutando em lutas de boxe clandestinas e seus dias como o melhor encantador do campus da faculdade. Mas Abby não quer nada com Travis. Intrigado com a resistência de Abby, Travis oferece a ela uma aposta simples: se perder a próxima luta, deve permanecer sem sexo por um mês. Se ele vencer, Abby deve morar em seu apartamento pelo mesmo período de tempo. De qualquer forma, Travis não tem ideia de que o passado sombrio de Abby está prestes a emergir, e ele pode finalmente ter encontrado seu par.",
+                    "popularity": 166.842,
+                    "poster_path": "/uLOPRqoglXJJPrqFcCBueUOvB0p.jpg",
+                    "release_date": "2023-04-04",
+                    "title": "Beautiful Disaster",
+                    "video": false,
+                    "vote_average": 5.4,
+                    "vote_count": 118
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/4geEJGCGcqz4LLzmj3Z60FvEeDZ.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 1070629,
+                    "original_language": "nl",
+                    "original_title": "Fijn Weekend",
+                    "overview": "",
+                    "popularity": 126.754,
+                    "poster_path": "/fYC7EmTSl8NGmpqqtC0GXoSrGMd.jpg",
+                    "release_date": "2023-01-19",
+                    "title": "Fijn Weekend",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 14
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/jPLNT2UypMGmiv24rxpRuhXDtPZ.jpg",
+                    "genre_ids": [
+                        35,
+                        10749
+                    ],
+                    "id": 198380,
+                    "original_language": "it",
+                    "original_title": "La minorenne",
+                    "overview": "",
+                    "popularity": 75.936,
+                    "poster_path": "/iTLHdNXVGoWNluALiBlBkgRHwIo.jpg",
+                    "release_date": "1974-09-25",
+                    "title": "La minorenne",
+                    "video": false,
+                    "vote_average": 5.1,
+                    "vote_count": 16
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/4UYJvZkYcKbOc8Mor0EhoVaVkGE.jpg",
+                    "genre_ids": [
+                        35,
+                        10749
+                    ],
+                    "id": 218746,
+                    "original_language": "ko",
+                    "original_title": "젊은 엄마",
+                    "overview": "",
+                    "popularity": 96.188,
+                    "poster_path": "/x73C5Hi8FuxCWdmY67evoV9V7xi.jpg",
+                    "release_date": "2013-07-31",
+                    "title": "젊은 엄마",
+                    "video": false,
+                    "vote_average": 5,
+                    "vote_count": 12
+                }
+            ],
+            "total_pages": 2210,
+            "total_results": 44192
+        }
+    },
+    {
+        "slug": "documentary",
+        "title": "Documentário",
+        "items": {
+            "page": 1,
+            "results": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/sGE6N1vJjxZLkOJEXdIOqTslxuL.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1087040,
+                    "original_language": "en",
+                    "original_title": "Money Shot: The Pornhub Story",
+                    "overview": "O Pornhub, a mais famosa plataforma de entretenimento para adultos na internet, alterou radicalmente a forma como se produz e distribui pornografia. Ao possibilitar que criadores de conteúdos eróticos alcançassem um vasto público, a empresa faturou milhares de milhões de dólares — mas também se viu envolvida em graves alegações, incluindo a disseminação de material não consensual e de tráfico humano através do website. Enquanto as organizações contra o tráfico humano procuram justiça para as vítimas, conseguirá o gigante da internet proteger as pessoas com quem lucra, ou será esta uma nova onda de censura contra artistas em idade adulta por produziram pornografia consensualmente?",
+                    "popularity": 148.993,
+                    "poster_path": "/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg",
+                    "release_date": "2023-03-15",
+                    "title": "Grande Plano: A História do Pornhub",
+                    "video": false,
+                    "vote_average": 5.8,
+                    "vote_count": 201
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/wQiXDEzfU8pydakr5yZ01bhlN30.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1058699,
+                    "original_language": "en",
+                    "original_title": "STILL: A Michael J. Fox Movie",
+                    "overview": "",
+                    "popularity": 148.859,
+                    "poster_path": "/4iMy2qomj6oQUDNLCIKKIZFhy4x.jpg",
+                    "release_date": "2023-01-20",
+                    "title": "STILL: A Michael J. Fox Movie",
+                    "video": false,
+                    "vote_average": 7.3,
+                    "vote_count": 29
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/hraytJBd1Ztcp7k9So4zLFcgsyh.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1040603,
+                    "original_language": "en",
+                    "original_title": "Orgasm Inc: The Story of OneTaste",
+                    "overview": "",
+                    "popularity": 84.286,
+                    "poster_path": "/yqI3XQ1nmvxFpBus1BescRrRBAj.jpg",
+                    "release_date": "2022-11-05",
+                    "title": "Orgasm Inc: The Story of OneTaste",
+                    "video": false,
+                    "vote_average": 6.4,
+                    "vote_count": 57
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/nIXBaPRix53sq4W2KK8FazrGzc4.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1114590,
+                    "original_language": "en",
+                    "original_title": "Anna Nicole Smith: You Don't Know Me",
+                    "overview": "Do auge da sua carreira como modelo à sua morte trágica, este documentário traça o retrato de Anna Nicole Smith sob a perspectiva das pessoas que lhe eram mais próximas.",
+                    "popularity": 79.79,
+                    "poster_path": "/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",
+                    "release_date": "2023-05-16",
+                    "title": "Anna Nicole Smith: Ninguém Me Conhece",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 16
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [
+                        10402,
+                        99
+                    ],
+                    "id": 479197,
+                    "original_language": "en",
+                    "original_title": "Melody Makers",
+                    "overview": "",
+                    "popularity": 69.921,
+                    "poster_path": "/z521Q2X94hgLUtqP1HAbZqxhUu5.jpg",
+                    "release_date": "2019-12-17",
+                    "title": "Melody Makers",
+                    "video": false,
+                    "vote_average": 4.5,
+                    "vote_count": 2
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/ifGs4hSnqTCFmhJqCGe5Ec0cTe5.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1025169,
+                    "original_language": "th",
+                    "original_title": "13 หมูป่า: เรื่องเล่าจากในถ้ำ",
+                    "overview": "",
+                    "popularity": 66.856,
+                    "poster_path": "/xF55KYpT70qho6PkJf4NQpgjNdL.jpg",
+                    "release_date": "2022-10-05",
+                    "title": "13 หมูป่า: เรื่องเล่าจากในถ้ำ",
+                    "video": false,
+                    "vote_average": 6.9,
+                    "vote_count": 30
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/e3kaIotMYdIfbJatiAppDVgYiow.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1113013,
+                    "original_language": "en",
+                    "original_title": "Cocaine Bear: The True Story",
+                    "overview": "",
+                    "popularity": 55.138,
+                    "poster_path": "/oVOzTMjmERFxlvwIIWCB3Tyopfj.jpg",
+                    "release_date": "2023-04-13",
+                    "title": "Cocaine Bear: The True Story",
+                    "video": false,
+                    "vote_average": 5.4,
+                    "vote_count": 4
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 899082,
+                    "original_language": "en",
+                    "original_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+                    "overview": "Uma encantadora história de making-of contada por meio de novas entrevistas em profundidade e conversas com o elenco, convidando os fãs a uma jornada mágica em primeira pessoa através de uma das franquias de filmes mais amadas de todos os tempos.",
+                    "popularity": 43.621,
+                    "poster_path": "/bhY813zHKJStgUwl9kfBA3WDDPS.jpg",
+                    "release_date": "2022-01-01",
+                    "title": "Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts",
+                    "video": false,
+                    "vote_average": 7.3,
+                    "vote_count": 2934
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/qARAY7ZDb6ZYnXBnCROZB6sOUSx.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1109714,
+                    "original_language": "en",
+                    "original_title": "Queenmaker: The Making of an It Girl",
+                    "overview": "",
+                    "popularity": 46.912,
+                    "poster_path": "/A68DVat8FLrQh5HeM1l1tTxbbms.jpg",
+                    "release_date": "2023-05-17",
+                    "title": "Queenmaker: The Making of an It Girl",
+                    "video": false,
+                    "vote_average": 2,
+                    "vote_count": 1
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/n9BtaFW7aMDNiX9Rrc858vR5TTn.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 440249,
+                    "original_language": "en",
+                    "original_title": "After Porn Ends 2",
+                    "overview": "\"After Porn Ends 2\" é um documentário que não só examina as vidas e carreiras de alguns dos maiores nomes da história da indústria do entretenimento adulto, mas o que acontece com eles depois que deixar o negócio e tentar viver a vida normal que milhões de outros americanos desfrutam.",
+                    "popularity": 36.094,
+                    "poster_path": "/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
+                    "release_date": "2017-03-28",
+                    "title": "After Porn Ends 2",
+                    "video": false,
+                    "vote_average": 5.4,
+                    "vote_count": 212
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/uXADu1mfgTwNkBjgtDkLQRt5N8a.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1094266,
+                    "original_language": "es",
+                    "original_title": "Amén: Francisco responde",
+                    "overview": "Dez jovens de todo o mundo encontram-se em Roma com o Papa Francisco com o objetivo de lhe transmitir e expressar as maiores preocupações que assolam a sua geração. Espera-os um encontro sem precedentes, uma conversa cara a cara e um evento único.",
+                    "popularity": 37.662,
+                    "poster_path": "/vVwAgejEKDhZP6N4N47cuaGr3K4.jpg",
+                    "release_date": "2023-04-05",
+                    "title": "Amén: Francisco responde",
+                    "video": false,
+                    "vote_average": 7.6,
+                    "vote_count": 27
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1071647,
+                    "original_language": "en",
+                    "original_title": "John Farnham: Finding the Voice",
+                    "overview": "",
+                    "popularity": 32.82,
+                    "poster_path": "/5eZkEBJMuqiMrd3frQ30zDAXVTy.jpg",
+                    "release_date": "2023-05-18",
+                    "title": "John Farnham: Finding the Voice",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 961651,
+                    "original_language": "en",
+                    "original_title": "Spider-Man: All Roads Lead to No Way Home",
+                    "overview": "",
+                    "popularity": 32.665,
+                    "poster_path": "/dNS4w5U6zaezZIxz4AP0FTzWX8f.jpg",
+                    "release_date": "2022-05-03",
+                    "title": "Spider-Man: All Roads Lead to No Way Home",
+                    "video": false,
+                    "vote_average": 7,
+                    "vote_count": 36
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/y3yQ33KgWqFQwFP4vx8Wpxspo.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1063239,
+                    "original_language": "de",
+                    "original_title": "Big Mäck: Gangster und Gold",
+                    "overview": "",
+                    "popularity": 30.319,
+                    "poster_path": "/k5qs9mKMMA0gBIdJnYOxSwgWc6u.jpg",
+                    "release_date": "2023-01-20",
+                    "title": "Big Mäck: Gangster und Gold",
+                    "video": false,
+                    "vote_average": 5.9,
+                    "vote_count": 15
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/5cnbmWWnzC2L0CbOYZDeCWbHHJP.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 324558,
+                    "original_language": "en",
+                    "original_title": "X-Rated: The Greatest Adult Movies of All Time",
+                    "overview": "",
+                    "popularity": 35.866,
+                    "poster_path": "/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
+                    "release_date": "2015-02-06",
+                    "title": "X-Rated: The Greatest Adult Movies of All Time",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 143
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/chKGRT7RjkHWlU0hRFQeJMx2Bra.jpg",
+                    "genre_ids": [
+                        18,
+                        99
+                    ],
+                    "id": 511679,
+                    "original_language": "es",
+                    "original_title": "Héctor El Father: Conocerás la verdad",
+                    "overview": "",
+                    "popularity": 29.794,
+                    "poster_path": "/tkP0FzEivLxsUYt8BlaL8Sh7ceY.jpg",
+                    "release_date": "2018-03-22",
+                    "title": "Héctor El Father: Conocerás la verdad",
+                    "video": false,
+                    "vote_average": 7.8,
+                    "vote_count": 94
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 318256,
+                    "original_language": "en",
+                    "original_title": "Hot Girls Wanted",
+                    "overview": "Apresentado no Festival Sundance de Cinema de 2015, este documentário do produtor Rashida Jones investiga a indústria do pornô “amador” e as mulheres exploradas.",
+                    "popularity": 27.533,
+                    "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+                    "release_date": "2015-05-29",
+                    "title": "Hot Girls Wanted",
+                    "video": false,
+                    "vote_average": 6,
+                    "vote_count": 536
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/arA7AFtzpJdOmWMQNh5gXpfR7SD.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1018648,
+                    "original_language": "en",
+                    "original_title": "The Redeem Team",
+                    "overview": "",
+                    "popularity": 22.496,
+                    "poster_path": "/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg",
+                    "release_date": "2022-10-07",
+                    "title": "The Redeem Team",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "vote_count": 102
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/sVUj3GZ6qWCyaVyu4PpMlyYQbxd.jpg",
+                    "genre_ids": [
+                        99,
+                        10402
+                    ],
+                    "id": 962192,
+                    "original_language": "en",
+                    "original_title": "Halftime",
+                    "overview": "",
+                    "popularity": 25.715,
+                    "poster_path": "/jUVglxBw7KSkcVEhvfJs1eipPnk.jpg",
+                    "release_date": "2022-06-08",
+                    "title": "Halftime",
+                    "video": false,
+                    "vote_average": 7,
+                    "vote_count": 116
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/x0rj61wwufJe3cxzxrHnSE69l8t.jpg",
+                    "genre_ids": [
+                        99
+                    ],
+                    "id": 1080943,
+                    "original_language": "de",
+                    "original_title": "Goldhammer",
+                    "overview": "",
+                    "popularity": 26.45,
+                    "poster_path": "/6MNGlMwfjBClARSm9GGY1Q19RlN.jpg",
+                    "release_date": "2023-05-18",
+                    "title": "Goldhammer",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "total_pages": 6350,
+            "total_results": 126993
+        }
+    }
+]
