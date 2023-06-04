@@ -1,20 +1,19 @@
 name: deploy
 
 on: 
-    push:
-        branches:
-        - main
+   workflow_dispatch
+       
 
 jobs:
     deploy:
-        runs-on: ubuntu@latest
+        runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v1
               with:
                 node-version: '16.x'
             - name: Build web-app
-              run:
+              run: |
                 npm ci
                 npm run build
             - name: Deploy to gh-pages
@@ -22,4 +21,3 @@ jobs:
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
                 publish_dir: ./build
-            
