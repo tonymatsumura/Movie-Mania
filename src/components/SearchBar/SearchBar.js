@@ -7,18 +7,20 @@ const SearchBar = ({ searchBarResults, setSearchBarResults }) => {
   const [searchBarOpacity, setSearchBarOpacity] = useState(0);
 
   const fetchData = async value => {
-    const response = await fetch("https://localhost:44362/api/Movies");
+    const response = await fetch("https://sheetdb.io/api/v1/98d2ot9ejgwew");
     const jsonData = await response.json();
 
+    console.log("jsonData: " + JSON.stringify(jsonData))
     const results = jsonData.filter(movie => {
+      console.log("movie.title: " + JSON.stringify(movie.Title))
       return (
         value &&
         movie &&
-        movie.title &&
-        movie.title.toLowerCase().includes(value.toLowerCase())
+        movie.Title &&
+        movie.Title.toLowerCase().includes(value.toLowerCase())
       );
     });
-    //console.log(results);
+    console.log(results);
     setSearchBarResults(results);
 
     (results.length > 0) ? setSearchBarOpacity(0.9) : setSearchBarOpacity(0);
@@ -42,7 +44,7 @@ const SearchBar = ({ searchBarResults, setSearchBarResults }) => {
       </div>
       <div className="searchBar--results" style={{ opacity: searchBarOpacity }}>
         {searchBarResults.map(movie => {
-          return <div className="searchBarItem">{movie.title}</div>
+          return <div className="searchBarItem">{movie.Title}</div>
         })}
       </div>
     </>
