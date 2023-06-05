@@ -68,9 +68,9 @@ const UseFetch = () => {
   // }
   //#endregion handlePostMovies
   //#region handleGetMovies
-  const handleGetMovies = () => {
-    fetchData('get');
-  }
+  // const handleGetMovies = () => {
+  //   fetchData('get');
+  // }
   //#endregion handleGetMovies
   //#region handleDeleteMovies
   // const handleDeleteMovies = () => {
@@ -78,9 +78,9 @@ const UseFetch = () => {
   // }
   //#endregion handleDeleteMovies
   //#region handlePutMovies
-  const handlePutMovies = () => {
-    fetchData();
-  }
+  // const handlePutMovies = () => {
+  //   fetchData();
+  // }
   //#endregion handlePutMovies
   //#region return
   return (
