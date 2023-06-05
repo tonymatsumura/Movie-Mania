@@ -1,10 +1,10 @@
-import axios from 'axios';
+// import axios from 'axios';
 
-import React from 'react'
+// import React from 'react'
 
-const dbContext = axios.create({
-  baseURL: 'https://localhost:44362/api/Movies'
-})
+// const dbContext = axios.create({
+//   baseURL: 'https://localhost:44362/api/Movies'
+// })
 
 const UseFetch = () => {
 
