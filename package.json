@@ -1,7 +1,7 @@
 {
   "name": "movie-mania",
   "version": "0.1.0",
-  "homepage": "movie-mania/",
+  "homepage": ".",
   "private": true,
   "proxy": "https://tonymatsumura.github.io/Movie-Mania/",
   "dependencies": {
