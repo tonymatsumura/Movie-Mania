@@ -22,6 +22,7 @@ export default function App() {
   useEffect(() => { // Get Tmdb Movies List
     const loadAll = async () => {
       let list = await Tmdb.getHomelist();
+      console.log(list);
       setMovieList(list);
 
       // Pegar o feature
