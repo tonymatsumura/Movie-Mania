@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movie-mania/static/css/main.0c83b8af.css",
-    "main.js": "/movie-mania/static/js/main.89b1d0d3.js",
-    "index.html": "/movie-mania/index.html",
-    "main.0c83b8af.css.map": "/movie-mania/static/css/main.0c83b8af.css.map",
-    "main.89b1d0d3.js.map": "/movie-mania/static/js/main.89b1d0d3.js.map"
+    "main.css": "./static/css/main.0c83b8af.css",
+    "main.js": "./static/js/main.89b1d0d3.js",
+    "index.html": "./index.html",
+    "main.0c83b8af.css.map": "./static/css/main.0c83b8af.css.map",
+    "main.89b1d0d3.js.map": "./static/js/main.89b1d0d3.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83b8af.css",
