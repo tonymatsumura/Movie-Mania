@@ -85,10 +85,10 @@ const UseFetch = () => {
   //#region return
   return (
     <div>
-      <button onClick={handlePostMovies}>PostMovies</button>
+      {/* <button onClick={handlePostMovies}>PostMovies</button>
       <button onClick={handleGetMovies}>GetMovies</button>
       <button onClick={handleDeleteMovies}>DeleteMovies</button>
-      <button onClick={handlePutMovies}>PutMovies</button>
+      <button onClick={handlePutMovies}>PutMovies</button> */}
     </div >
   )
   //#endregion return
