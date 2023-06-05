@@ -63,9 +63,9 @@ const UseFetch = () => {
   }
   //#endregion fetchData
   //#region handlePostMovies
-  const handlePostMovies = (item) => {
-    fetchData('post', item);
-  }
+  // const handlePostMovies = (item) => {
+  //   fetchData('post', item);
+  // }
   //#endregion handlePostMovies
   //#region handleGetMovies
   const handleGetMovies = () => {
