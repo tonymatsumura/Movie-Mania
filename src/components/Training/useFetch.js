@@ -9,58 +9,58 @@ const dbContext = axios.create({
 const UseFetch = () => {
 
   //#region fetchData
-  const fetchData = async (httpVerb, id, item) => {
-    //#region Sample Data
-    item = {
-      "id": 0,
-      "title": "string",
-      "description": "string",
-      "releaseDate": "2023-05-22T18:55:07.570Z",
-      "rating": 0,
-      "director": "string",
-      "genre": "string"
-    }
-    //#endregion
-    //#region show "Entered fetchdata", "httpverb"
-    console.log("Entered fetchData");
-    console.log("httpVerb: " + httpVerb)
-    console.log("id: " + id);
-    console.log(item);
-    //#endregion show "Entered fetchdata", "httpverb"
-    //#region try catch get, post
-    let response = null;
-    try {
-      switch (httpVerb) {
-
-        case 'get':
-          response = await dbContext({
-            headers: {
-              Accept: 'application/json',
-            },
-          });
-          break;
-
-        case 'post':
-          response = await dbContext.post('/', item)
-          break;
-
-        case 'delete':
-          let url = dbContext.baseURL + id;
-          console.log("url to delete: " + url)
-          response = await dbContext.delete('/' + id)
-          break;
-
-        default: response = null;
-      }
-      if (response != null) {
-        const data = response.data;
-        console.log(data);
-      }
-    } catch (error) {
-      console.log(error.response);
-    }
-    //#endregion try catch get, post
+  // const fetchData = async (httpVerb, id, item) => {
+  //#region Sample Data
+  item = {
+    "id": 0,
+    "title": "string",
+    "description": "string",
+    "releaseDate": "2023-05-22T18:55:07.570Z",
+    "rating": 0,
+    "director": "string",
+    "genre": "string"
   }
+  //#endregion
+  //#region show "Entered fetchdata", "httpverb"
+  console.log("Entered fetchData");
+  console.log("httpVerb: " + httpVerb)
+  console.log("id: " + id);
+  console.log(item);
+  //#endregion show "Entered fetchdata", "httpverb"
+  //#region try catch get, post
+  // let response = null;
+  // try {
+  //   switch (httpVerb) {
+
+  //     case 'get':
+  //       response = await dbContext({
+  //         headers: {
+  //           Accept: 'application/json',
+  //         },
+  //       });
+  //       break;
+
+  //     case 'post':
+  //       response = await dbContext.post('/', item)
+  //       break;
+
+  //     case 'delete':
+  //       let url = dbContext.baseURL + id;
+  //       console.log("url to delete: " + url)
+  //       response = await dbContext.delete('/' + id)
+  //       break;
+
+  //     default: response = null;
+  //   }
+  //   if (response != null) {
+  //     const data = response.data;
+  //     console.log(data);
+  //   }
+  // } catch (error) {
+  //   console.log(error.response);
+  // }
+  //#endregion try catch get, post
+  // }
   //#endregion fetchData
   //#region handlePostMovies
   // const handlePostMovies = (item) => {
@@ -73,9 +73,9 @@ const UseFetch = () => {
   }
   //#endregion handleGetMovies
   //#region handleDeleteMovies
-  const handleDeleteMovies = () => {
-    fetchData('delete', 70);
-  }
+  // const handleDeleteMovies = () => {
+  //   fetchData('delete', 70);
+  // }
   //#endregion handleDeleteMovies
   //#region handlePutMovies
   const handlePutMovies = () => {
