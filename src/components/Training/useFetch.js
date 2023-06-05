@@ -11,21 +11,21 @@ const UseFetch = () => {
   //#region fetchData
   // const fetchData = async (httpVerb, id, item) => {
   //#region Sample Data
-  item = {
-    "id": 0,
-    "title": "string",
-    "description": "string",
-    "releaseDate": "2023-05-22T18:55:07.570Z",
-    "rating": 0,
-    "director": "string",
-    "genre": "string"
-  }
-  //#endregion
-  //#region show "Entered fetchdata", "httpverb"
-  console.log("Entered fetchData");
-  console.log("httpVerb: " + httpVerb)
-  console.log("id: " + id);
-  console.log(item);
+  // item = {
+  //   "id": 0,
+  //   "title": "string",
+  //   "description": "string",
+  //   "releaseDate": "2023-05-22T18:55:07.570Z",
+  //   "rating": 0,
+  //   "director": "string",
+  //   "genre": "string"
+  // }
+  // //#endregion
+  // //#region show "Entered fetchdata", "httpverb"
+  // console.log("Entered fetchData");
+  // console.log("httpVerb: " + httpVerb)
+  // console.log("id: " + id);
+  // console.log(item);
   //#endregion show "Entered fetchdata", "httpverb"
   //#region try catch get, post
   // let response = null;
