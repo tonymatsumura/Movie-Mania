@@ -15,7 +15,6 @@ const Header = ({ black }) => {
                 </a>
             </div>
 
-            {/* TODO Insert search bar */}
             <div className="header--searchBar">
                 <SearchBar
                     searchBarResults={searchBarResults}

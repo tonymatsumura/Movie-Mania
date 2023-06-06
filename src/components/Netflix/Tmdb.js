@@ -1,6 +1,7 @@
-const API_KEY = 'f9552e6936e82baec50298f564280cdf';
-const API_BASE = 'https://api.themoviedb.org/3';
 
+
+const API_KEY = process.env.REACT_APP_API_KEY;
+const API_BASE = 'https://api.themoviedb.org/3';
 
 const basicFetch = async (endpoint) => {
     const req = await fetch(`${API_BASE}${endpoint}`);
@@ -8,9 +9,9 @@ const basicFetch = async (endpoint) => {
     return json;
 }
 
-
 export const Tmdb = {
     getHomelist: async () => {
+        console.log("getHomelist()")
         return [
             {
                 slug: 'originals',
@@ -58,6 +59,7 @@ export const Tmdb = {
 
     getMovieInfo: async (movieId, type) => {
         let info = {};
+        console.log("getMovieInfo()")
 
         if (movieId) {
             switch (type) {

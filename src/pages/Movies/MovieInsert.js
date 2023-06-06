@@ -19,8 +19,6 @@ export default function MovieInsert() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // You can write code here to insert data into your database or perform any other action.
-    //console.log({ title, description, releaseDate, rating, director, genre });
   };
 
   // RETURN

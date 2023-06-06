@@ -2,7 +2,6 @@
 import React, { useEffect, useState } from "react";
 import './App.css';
 
-
 // Import from Netflix
 import { Tmdb } from "./components/Netflix/Tmdb";
 import MovieRow from "./components/Netflix/Components/MovieRow.js";
@@ -12,8 +11,8 @@ import Header from "./components/Netflix/Components/Header";
 // Import temp
 import UseFetch from './components/Training/useFetch'
 
-
 export default function App() {
+
   const [movieList, setMovieList] = useState([]);
   const [featuredData, setFeaturedData] = useState(null);
   const [blackHeader, setBlackHeader] = useState(false);
@@ -21,6 +20,7 @@ export default function App() {
 
   useEffect(() => { // Get Tmdb Movies List
     const loadAll = async () => {
+      console.log("loadAll()")
       let list = await Tmdb.getHomelist();
       console.log(list);
       setMovieList(list);
@@ -29,9 +29,6 @@ export default function App() {
       let originals = list.filter(i => i.slug === 'originals');
       let randomChosen = Math.floor(Math.random() * (originals[0].items.results.length - 1));
       let chosen = originals[0].items.results[randomChosen];
-
-      //console.log("chosen: " + JSON.stringify(chosen));
-      //console.log("chosen id: " + JSON.stringify(chosen.id));
 
       let chosenInfo = await Tmdb.getMovieInfo(chosen.id, 'tv');
       setFeaturedData(chosenInfo);

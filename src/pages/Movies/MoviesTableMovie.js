@@ -65,14 +65,9 @@ export default function MoviesTableMovie({
   };
   // handleEdit
   const handleEdit = index => {
-    // alert("Entered handleEdit()");
     var moviesLength = movies.length;
-    // alert("index: " + index + " length: " + moviesLength);
 
     if (index > -1) {
-      // alert("movies: " + JSON.stringify(movies[index].title));
-      // alert("editar");
-      // alert("data: " + JSON.stringify(movies[index]));
       setEditTitle(movies[index].title);
       setEditDescription(movies[index].description);
       setEditReleaseDate(movies[index].releaseDate);
@@ -82,7 +77,6 @@ export default function MoviesTableMovie({
     } else {
       setEditOrAdd("add");
       clear();
-      // alert("adicionar");
     }
 
     handleShow(index);
@@ -95,32 +89,25 @@ export default function MoviesTableMovie({
 
     if (isToDelete) {
       axios.delete("https://localhost:44362/api/Movies/" + id).then(() => {
-        // alert("Sucess. Delete " + id);
       });
 
       window.location.reload(false);
     }
   };
   const handleUpdate = () => {
-    // alert();
+
   };
 
   // handleSave
   const handleSave = () => {
-    // alert("Entered handleSave()");
-    console.log("Entered handleSave()");
 
     const url = "https://localhost:44362/api/Movies";
     let _id = -1;
 
-    // alert"lastId: " + lastId);
-
     if (lastId < 0) lastId = -1;
-    // alert"currentIndex: " + currentIndex);
+
 
     editOrAdd === "edit" ? (_id = movies[currentIndex].id) : (_id = "");
-
-    // alert"_id: " + _id);
 
     const data = {
       title: editTitle,
@@ -131,31 +118,22 @@ export default function MoviesTableMovie({
       genre: editGenre,
     };
 
-    // alert"data: " + JSON.stringify(data));
-
-    // alert"editOrAdd: " + editOrAdd);
-
     if (editOrAdd === "add") {
-      // alert"Entered POST");
-      setMovies([...movies, data]);
 
-      // alert"data before post: " + JSON.stringify(data));
+      setMovies([...movies, data]);
 
       axios.post(url, data).then(result => {
         console.log(result);
       });
     } else {
-      // alert("Entered PUT");
       let _url = url + "/" + _id;
-      // alert("put url: " + _url);
       data["id"] = _id;
-      // alert("data: " + JSON.stringify(data));
+
       axios.put(_url, data).then(result => {
         console.log(result);
       });
     }
     window.location.reload(false);
-    // alert("data: " + JSON.stringify(movies));
     clear();
     setLastId(lastId + 1);
   };
@@ -164,7 +142,7 @@ export default function MoviesTableMovie({
 
   return (
     <div>
-      {/* TABELA  */}
+      {/* TABLE  */}
       <table className="table table-striped table-bordered">
         <thead className="bg-danger">
           <tr>
@@ -182,35 +160,35 @@ export default function MoviesTableMovie({
         <tbody className="table-dark">
           {movies && movies.length > 0
             ? movies.map((movie, index) => {
-                return (
-                  <tr key={movie.id}>
-                    {/* <td>{movie.id}</td> */}
-                    <td>{movie.title}</td>
-                    <td>{movie.description}</td>
-                    <td>{movie.releasedate}</td>
-                    <td>{movie.rating}</td>
-                    <td>{movie.director}</td>
-                    <td>{movie.genre}</td>
-                    <td>
-                      {/* ModeEditIcon */}
-                      <ModeEditIcon
-                        className="icon"
-                        onClick={() => {
-                          setEditOrAdd("edit");
-                          // alert("ModeEditIcon Current Index: " + index);
-                          setCurrentIndex(index);
-                          handleEdit(index);
-                        }}
-                      />
-                      {/* DeleteIcon */}
-                      <DeleteIcon
-                        className="icon"
-                        onClick={() => handleDelete(movie.id)}
-                      />
-                    </td>
-                  </tr>
-                );
-              })
+              return (
+                <tr key={movie.id}>
+                  {/* <td>{movie.id}</td> */}
+                  <td>{movie.title}</td>
+                  <td>{movie.description}</td>
+                  <td>{movie.releasedate}</td>
+                  <td>{movie.rating}</td>
+                  <td>{movie.director}</td>
+                  <td>{movie.genre}</td>
+                  <td>
+                    {/* ModeEditIcon */}
+                    <ModeEditIcon
+                      className="icon"
+                      onClick={() => {
+                        setEditOrAdd("edit");
+                        // alert("ModeEditIcon Current Index: " + index);
+                        setCurrentIndex(index);
+                        handleEdit(index);
+                      }}
+                    />
+                    {/* DeleteIcon */}
+                    <DeleteIcon
+                      className="icon"
+                      onClick={() => handleDelete(movie.id)}
+                    />
+                  </td>
+                </tr>
+              );
+            })
             : "Loading ..."}
         </tbody>
       </table>

@@ -1,9 +1,7 @@
 import React from 'react'
 import './FeaturedMovie.css'
 
-
 const FeaturedMovie = ({ item }) => {
-    //console.log('FeaturedMovie -> item: ' + JSON.stringify(item))
 
     let firstDate = new Date(item.first_air_date);
     let genres = [];
@@ -12,15 +10,11 @@ const FeaturedMovie = ({ item }) => {
         genres.push(item.genres[i].name);
     }
 
-
-    // TODO Limit the number of words used in the description of the movie --------------------------------
     let description = item.overview;
 
     if (description.length > 200) {
         description = description.substring(0, 200) + '...'
     }
-
-    //console.log('FeaturedMovie -> Genres: ' + JSON.stringify(genres));
 
     return (
         <div className="featured" style={{
@@ -31,7 +25,6 @@ const FeaturedMovie = ({ item }) => {
                 : ''}`
 
         }}>
-            {/* <div>{item.original_name}</div> */}
             <div className="featured--vertical">
                 <div className="featured--horizontal">
 

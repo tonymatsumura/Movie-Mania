@@ -50,5 +50,5 @@ const SearchBar = ({ searchBarResults, setSearchBarResults }) => {
     </>
   );
 };
-// Change Made
+
 export default SearchBar;
